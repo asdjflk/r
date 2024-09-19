@@ -180,7 +180,7 @@ As to what intermediate routine you should do, that depends on your goals. If yo
 
 ### **Can I do this every day?**
 
-No. If it were more effective that way, we wouldn't have made it a 3x a week routine. You get stronger and bigger when you rest. For more elaboration, see the FAQ on [can I train every day?](http://www.reddit.com/r/bodyweightfitness/wiki/faq#wiki_can_i_train_everyday.3F)
+No. If it were more effective that way, we wouldn't have made it a 3x a week routine. You get stronger and bigger when you rest. For more elaboration, see the FAQ on [can I train every day?](/r/bodyweightfitness/wiki/faq#wiki_can_i_train_everyday.3F)
 
 ### **How soon will I see results?**
 
