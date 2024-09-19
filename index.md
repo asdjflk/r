@@ -1,13 +1,13 @@
 # Welcome to the Recommended Routine
 
-* **This routine will cover the following goals:**
+**This routine will cover the following goals:**
 
  * Strength
  * Hypertrophy/Muscle Gain (provided your [diet](https://thefitness.wiki/improving-your-diet/) is aligned for this goal)
  * Fat Loss (provided your [diet](https://thefitness.wiki/improving-your-diet/) is aligned for this goal)
  * Check the [goals page for more details](/r/bodyweightfitness/wiki/kb/goals) to see if this routine will help you reach your goals.
 
-* **Overall Structure of this Routine:**
+**Overall Structure of this Routine:**
 
  * **Warm Up**
      * Dynamic stretches
@@ -97,7 +97,7 @@
 
 Overall, if your pull-up max is say 8 reps, then go for one rep short of failure such as 7-7-7 instead of 8-6-5. The key is to not work at failure for the first set or two because it significantly detracts from performance in later sets which reduces your ability to perform good reps and maximize volume to get stronger and bigger muscles. The 90 second pairing is so that there is minimum 3 minutes rest between each set, which is 3 minutes total. This rest time is where there is 99% replenishment of ATP in the muscles, so you are not limited by fatigue in the muscles. Sticking with failure-1 repetitions and 3 total minutes between sets of the same exercise allows you to maximize volume and effort level which is essential for strength and hypertrophy. See [here](https://www.reddit.com/r/bodyweightfitness/comments/7ab7c6/strict_form_vs_reps/dp8xymm/) for more discussion.
 
-##That's it! You're done! It's over! You did it!
+**That's it! You're done! It's over! You did it!**
 
 -------------------------------------
 
@@ -135,7 +135,7 @@ The set reduction method and increasing them over time if you need more is the p
 Alternatively, the [minimalist routine](https://www.reddit.com/r/bodyweightfitness/wiki/minroutine) is similar to the last bullet point if you want to just do something without thinking about it.
 
 
-###**I Don't Have This Much Time!**
+### **I Don't Have This Much Time!**
 
  This routine is about an hour long if you don't mess around and do the work. As a general rule, you should try and find this time somewhere. Make it a priority.  
  However, if it's really not happening, here are the things you can do in order of not-badness (the further down the list, the more "last ditch effort" it becomes):
@@ -151,7 +151,7 @@ Other options to reduce time:
 * Split the workout in two such as upper body and lower body and do them on alternate days
 
 
-###**Integrating Barbell Squats and Deadlifts**
+### **Integrating Barbell Squats and Deadlifts**
 
  The basic process works as follows:
 
@@ -166,19 +166,19 @@ Before you do your "work sets" it's a good idea to warm up with less weight for 
 As for actually selecting a weight: the first time, start with just the bar. Then add weights in increments you feel comfortable with. Try to add some weight every workout at first.
 
 
-###**Can you switch the order of the exercises?**
+### **Can you switch the order of the exercises?**
 
 Yes, as long as you leave the warm-up in the warm-up, and the strength work in the strength work.
 
 
-###**When do I move on to an intermediate routine?**
+### **When do I move on to an intermediate routine?**
 
 When you start plateauing (not making progress) for long periods of time (weeks) while your diet, nutrition, and stress levels are in check. You can also move on if you exhaust all the progressions. Or whenever you feel like, but that may not be optimal.
 
 As to what intermediate routine you should do, that depends on your goals. If you don't know what those are, you'd better start thinking about it! Bodyweight training is very varied, and this routine will have given you a solid basis for most other things you might want to get into. We recommend you develop your own intermediate routine. A short guide can be found [here](http://www.reddit.com/r/bodyweightfitness/wiki/training_guide#wiki_developing_an_intermediate_routine).
 
 
-###**Can I do this every day?**
+### **Can I do this every day?**
 
 No. If it were more effective that way, we wouldn't have made it a 3x a week routine. You get stronger and bigger when you rest. For more elaboration, see the FAQ on [can I train every day?](http://www.reddit.com/r/bodyweightfitness/wiki/faq#wiki_can_i_train_everyday.3F)
 
@@ -187,47 +187,47 @@ No. If it were more effective that way, we wouldn't have made it a 3x a week rou
 In your ability to do the exercises, expect progress to start about 2-3 workouts in. Physique progress, 4-6 weeks for you to notice it yourself, 12+ weeks for someone else to notice it. Provided your diet is in check.
 
 
-###**Where's the work for the arms and shoulders?**
+### **Where's the work for the arms and shoulders?**
 
 How are you planning on doing push-ups, rows, dips, and pull-ups without arms? Seriously though, all the exercises in the strength section are compound exercises, meaning they use major muscle groups simultaneously. Most bodyweight exercises are like this (as opposed to isolation exercises). Pushups, dips use the chest and triceps. Pullups and rows use the upper back (lats, etc), biceps and forearms (by gripping).  If you want more work for your forearms, check out /r/griptraining. 
 
 If you want to know in detail which exercises work which muscles and why they are included, [read this thread.](https://www.reddit.com/r/bodyweightfitness/comments/5ipiyd/trying_to_find_a_detailed_breakdown_of_reasoning/)
 
 
-###**Is it okay if I make XYZ modification to the routine?**
+### **Is it okay if I make XYZ modification to the routine?**
 
 You can make whatever changes you like, but if there was something we could change in the routine to improve results right off the bat for everyone, we would have changed that. The routine is set up in the way it is for various reasons that are too complicated to get into here, and very few of the design decisions were arbitrary. If you don't know what you're doing, stick with the routine as written. If you want to learn more about why the routine is set up the way it is, start reading the Basic Programming Principles in our [Concept Wednesday](https://www.reddit.com/r/bodyweightfitness/wiki/weekly/conceptwednesday) series.
 
 See also: [Why Beginners shouldn't modify the Recommended Routine](https://www.reddit.com/r/bodyweightfitness/comments/41wffd/fyi_for_beginners_do_not_attempt_to_modify_the/) and [Why switching up your exercises a lot is a bad idea](https://www.reddit.com/r/bodyweightfitness/comments/4oddzi/why_switching_up_your_exercises_a_lot_is_a_bad/)
 
 
-###**This felt way too easy! Is something wrong?**
+### **This felt way too easy! Is something wrong?**
 
 Give it some time. Make sure you're doing the hardest progressions you can do for 3 sets of 5 to 8 reps. This can take some figuring out in the beginning, so stick with it for a couple weeks and then reevaluate. Besides, soreness does not necessarily equate to growth.
 
-###**Which is better, this routine, or the Startbodyweight routine?**
+### **Which is better, this routine, or the Startbodyweight routine?**
 
  The general consensus is that the Startbodyweight routine is a solid routine for all of strength, hypertrophy, and fat loss (provided you eat correctly), so it doesn't really matter, so pick one and *get going*. Indecision is no use if you're not working out.
 
  [Thread 1](https://www.reddit.com/r/bodyweightfitness/comments/2l1zse/startbodyweight_vs_fitloop/), [thread 2](https://www.reddit.com/r/bodyweightfitness/comments/2d2x2o/is_startbodyweightcoms_basic_routine_any_good/).
 
 
-###**Which is better, this routine, or the GymnasticBodies Foundation program?**
+### **Which is better, this routine, or the GymnasticBodies Foundation program?**
 
 **We specifically do NOT recommend any of GB's materials. [Sommer threatened to sue bodyweightfitness members for posting bad reviews of his program and seminars](https://www.reddit.com/r/bodyweightfitness/wiki/kb/program_reviews#wiki_christopher_sommer.27s_.2F_gymnasticbodies_foundation)**.
 
 With that said, the GymnasticBodies series have a very different flavour compared to our routines, so this a decision you'll have to make on your own. You can find our review page of the program [here](https://www.reddit.com/r/bodyweightfitness/wiki/program_reviews/gb_foundation) (might be a little out of date). Here are some threads about our routine versus Foundation in specific: [thread 1](https://www.reddit.com/r/bodyweightfitness/comments/2to9ve/gb_foundation_vs_oglike_routine_like_the_one/), [thread 2](https://www.reddit.com/r/bodyweightfitness/comments/1eny1w/starting_out_foundation_vs_reddit_bodyweight/), and also make sure to give /u/FatManDan's [Reasons for Slow Progress on the Foundation Series](http://www.reddit.com/r/bodyweightfitness/comments/2o4xcw/reasons_for_slow_progress_on_foundation_series/) ([part 2](https://www.reddit.com/r/bodyweightfitness/comments/359pwr/reasons_for_slow_progress_on_foundation_series/)) a read.
 
-###**What about Bar Brothers / BarStarzz / Convict Conditioning / Freeletics / Insanity / P90X / THENX / etcetera?**
+### **What about Bar Brothers / BarStarzz / Convict Conditioning / Freeletics / Insanity / P90X / THENX / etcetera?**
 
 * A directory of reviews for similar and not-so-similar fitness programs may be found in our knowledge base located [here](https://www.reddit.com/r/bodyweightfitness/wiki/kb/program_reviews).
 
 
-###**This is great, but I'd like something more skill-oriented. Do you have anything that can fit the bill?**
+### **This is great, but I'd like something more skill-oriented. Do you have anything that can fit the bill?**
 
  * Give our [Move](https://www.reddit.com/r/bodyweightfitness/wiki/move) programming a look. It'll help increase your motor skills and balance while strengthening your body. If you don't care about any strength work, give our [Skill Day Routine](https://www.reddit.com/r/bodyweightfitness/wiki/kb/skillday) a look!
 
-###**Do I rest 90sec between EVERY exercise? What are Pairs? I'm confused how it works.**
+### **Do I rest 90sec between EVERY exercise? What are Pairs? I'm confused how it works.**
 
 **Pairs are sets of exercises combined together by switching after every set instead of doing 3 sets of 1 exercise, and then 3 sets of another. This saves overall time.**
 
@@ -257,7 +257,7 @@ Core Triplet
     anti-extension, rest 60sec, anti-rotation, rest 60sec, extension, rest 60sec
     anti-extension, rest 60sec, anti-rotation, rest 60sec, extension, 5ever/until next workout day
 
-###**The Recommended Routine looks different from how I remember, but I can't quite place my finger on it...🤔** 
+### **The Recommended Routine looks different from how I remember, but I can't quite place my finger on it...🤔** 
 
 * We released a big update in the Summer of 2018! The changes are detailed [in this post](https://www.reddit.com/r/bodyweightfitness/comments/8ywetr/recommended_routine_update_again). 
 
@@ -265,7 +265,7 @@ Core Triplet
 
 * As always, the full RR commit history may be viewed with [this link](https://www.reddit.com/r/bodyweightfitness/wiki/kb/recommended_routine_2017).
 
-#Translations
+# Translations
 If you'd like to submit a translation of this page, use the view-source option below as a base and please [message the moderators](https://www.reddit.com/message/compose?to=/r/bodyweightfitness) to let us know and get help with the process.
 
 * [Arabic](https://www.reddit.com/r/bodyweightfitness/wiki/kb/recommended_routine_arabic)
@@ -303,7 +303,7 @@ Thanks to /u/stefanless
 
 * [日本語](https://www.reddit.com/r/bodyweightfitness/wiki/kb/recommended_routine_jp) Thanks to u/mthinderaker and Ishida Koa
 
-#Old Translations
+# Old Translations
 Previous translations of the [Recommended Routine (before 2018)] (https://www.reddit.com/r/bodyweightfitness/wiki/kb/recommended_routine_2017) are available below:
 
 * [日本語](https://www.reddit.com/r/bodyweightfitness/wiki/kb/recommended_routine_japanese)
