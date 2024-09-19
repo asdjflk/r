@@ -20,7 +20,7 @@
 
 * **You will need access to:**
      * A place to do Rows (Low Bar, or Gymnastics Rings, a Sturdy Table, or even [a knotted bedsheet in a door](https://www.youtube.com/watch?v=wr8ZA-cvH3s); This is ***non negotiable*** regardless of physical skill level. Rows are absolutely integral to the quality of the routine and cannot be substituted.)
-     * A place to do pull ups, if you are at the point in the program where you add pull-ups (monkey bars, Pull-up bar, rings, etc). Additional alternatives in the [FAQ](https://www.reddit.com/r/bodyweightfitness/wiki/faq#wiki_i_have_no_equipment_to_do_pullups_.2F_rows_.2F_dips.21)
+     * A place to do pull ups, if you are at the point in the program where you add pull-ups (monkey bars, Pull-up bar, rings, etc). Additional alternatives in the [FAQ](/r/bodyweightfitness/wiki/faq#wiki_i_have_no_equipment_to_do_pullups_.2F_rows_.2F_dips.21)
      * [Parallel Bars](http://antranik.org/wp-content/uploads/2014/01/antranik-holding-support-hold-on-parallel-bars.jpg) (There are progressions that can be done in place of these once you have reached the appropriate level which do not require these, so if you absolutely cannot find the corner of a kitchen counter, two sturdy chairs, or anything like that, do not let this bar you from starting.)
 
 
@@ -58,9 +58,9 @@
 | 10+ | [GMB Wrist Prep](https://www.youtube.com/watch?v=mSZWSQSSEjE) | Do as many reps as you want|
 |30s| [Deadbugs](http://www.nick-e.com/deadbug/) |
 | 10 | [Arch Hangs](https://youtu.be/C995b3KLXS4?t=7s) | Add these after you reach Negative Pullups. Beginner attempts will look more like [this](https://www.youtube.com/watch?v=HoE-C85ZlCE) |
-| 30s | [Support Hold](https://www.reddit.com/r/bodyweightfitness/wiki/exercises/support) | Add these after you reach Negative Dips. |
-| 10 | [Easier Squat progression](https://www.reddit.com/r/bodyweightfitness/wiki/exercises/squat) | Add these after you reach Bulgarian Split Squats. |
-| 10 | [Easier Hinge progression](https://www.reddit.com/r/bodyweightfitness/wiki/exercises/hinge) | Add these after you reach Banded Nordic Curls. |
+| 30s | [Support Hold](/r/bodyweightfitness/wiki/exercises/support) | Add these after you reach Negative Dips. |
+| 10 | [Easier Squat progression](/r/bodyweightfitness/wiki/exercises/squat) | Add these after you reach Bulgarian Split Squats. |
+| 10 | [Easier Hinge progression](/r/bodyweightfitness/wiki/exercises/hinge) | Add these after you reach Banded Nordic Curls. |
 
 
 
@@ -69,13 +69,13 @@
 ### **First Pair**
  * 3x5-8 [Pull-up progression](/r/bodyweightfitness/wiki/exercises/pullup) 
  * 3x5-8 [Squat Progression](/r/bodyweightfitness/wiki/exercises/squat)  
- **Note: If you have access to barbells (and a squat rack), we recommend you [learn how to use them instead of the squat progression.](https://www.reddit.com/r/bodyweightfitness/wiki/kb/recommended_routine#wiki_integrating_barbell_squats_and_deadlifts) after you have perfected the basic squat.**
+ **Note: If you have access to barbells (and a squat rack), we recommend you [learn how to use them instead of the squat progression.](/r/#wiki_integrating_barbell_squats_and_deadlifts) after you have perfected the basic squat.**
  
 
 ### **Second Pair**  
  * 3x5-8 [Dip progression](/r/bodyweightfitness/wiki/exercises/dip) 
  * 3x5-8 [Hinge Progression](/r/bodyweightfitness/wiki/exercises/hinge)  
- **Note: If you have access to barbells, we recommend you [learn how to use them instead of the hinge progression.](https://www.reddit.com/r/bodyweightfitness/wiki/kb/recommended_routine#wiki_integrating_barbell_squats_and_deadlifts) after you have perfected the basic hinge progression.**
+ **Note: If you have access to barbells, we recommend you [learn how to use them instead of the hinge progression.](/r/#wiki_integrating_barbell_squats_and_deadlifts) after you have perfected the basic hinge progression.**
  
 
 ### **Third Pair**  
@@ -132,7 +132,7 @@ Some common modifications to the Recommended Routine include the following:
 
 The set reduction method and increasing them over time if you need more is the preferred recommendation.
 
-Alternatively, the [minimalist routine](https://www.reddit.com/r/bodyweightfitness/wiki/minroutine) is similar to the last bullet point if you want to just do something without thinking about it.
+Alternatively, the [minimalist routine](/r/bodyweightfitness/wiki/minroutine) is similar to the last bullet point if you want to just do something without thinking about it.
 
 
 ### **I Don't Have This Much Time!**
