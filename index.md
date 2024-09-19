@@ -84,10 +84,10 @@
  
 
 ### **Core Triplet**  
- * 3x8-12 [Anti-Extension progression](https://www.reddit.com/r/bodyweightfitness/wiki/exercises/core#wiki_anti-extension)
- * 3x8-12 [Anti-Rotation progression](https://www.reddit.com/r/bodyweightfitness/wiki/exercises/core#wiki_anti-rotation)
- * 3x8-12 [Extension progression](https://www.reddit.com/r/bodyweightfitness/wiki/exercises/core#wiki_extension)   
- **Note: Mobile users, if the above links don't work then [click here](https://www.reddit.com/r/bodyweightfitness/wiki/exercises/core) and manually scroll to each section.**
+ * 3x8-12 [Anti-Extension progression](/r/bodyweightfitness/wiki/exercises/core#wiki_anti-extension)
+ * 3x8-12 [Anti-Rotation progression](/r/bodyweightfitness/wiki/exercises/core#wiki_anti-rotation)
+ * 3x8-12 [Extension progression](/r/bodyweightfitness/wiki/exercises/core#wiki_extension)   
+ **Note: Mobile users, if the above links don't work then [click here](/r/bodyweightfitness/wiki/exercises/core) and manually scroll to each section.**
 
 **Instructions:** There are nine exercises. These exercises are performed in pairs and triplets to save time. Pairing two exercises means doing a set of the first exercise, resting 90 seconds, then doing a set of the second exercise, resting 90 seconds, and repeating until you've done 3 sets of that pair. For the triplet, you do a set of the first exercise, rest 60 seconds, do a set of the second exercise, rest 60 seconds, do a set of the third exercise, rest 60 seconds, and repeating until you've done 3 sets of that triplet.  See the FAQs below if you're still confused.
 
