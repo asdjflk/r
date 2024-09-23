@@ -1,8 +1,8 @@
-###[Click here](https://www.reddit.com/recommended-routine/bodyweightfitness/wiki/faq-index) for an easier to read index of the FAQ sections. 
+###[Click here](https://www.reddit.com/r/bodyweightfitness/wiki/faq-index) for an easier to read index of the FAQ sections. 
 
 # Frequently Asked Questions
 
-Please look through this document thoroughly before posting a question. Use the find function of your browser (usually CMD+F or CTRL+F) if you can't find your question. Also, please [search the subreddit](http://www.reddit.com/recommended-routine/bodyweightfitness/search?q=&restrict_sr=on) before making a post.
+Please look through this document thoroughly before posting a question. Use the find function of your browser (usually CMD+F or CTRL+F) if you can't find your question. Also, please [search the subreddit](http://www.reddit.com/r/bodyweightfitness/search?q=&restrict_sr=on) before making a post.
 
 If you would like more detail on anything addressed in the FAQ please post in the daily discussion thread instead of creating a new post.
 
@@ -10,17 +10,17 @@ If you would like more detail on anything addressed in the FAQ please post in th
 ## Routine Questions
 ### What routine should I do?
 
-* **[The Recommended Routine](/recommended-routine/bodyweightfitness/wiki/kb/recommended_routine)** is the routine that has historically been the 'one stop shop' routine for beginners since its inception in 2012! It's gone through various iterations and is great for beginners. If the RR seems like too much at first, there are [expert options to modify it](https://www.reddit.com/recommended-routine/bodyweightfitness/wiki/faq#wiki_the_recommended_routine_.28rr.29_is_too_much_for_me_as_a_beginner._what_can_i_do.3F).
+* **[The Recommended Routine](/r/bodyweightfitness/wiki/kb/recommended_routine)** is the routine that has historically been the 'one stop shop' routine for beginners since its inception in 2012! It's gone through various iterations and is great for beginners. If the RR seems like too much at first, there are [expert options to modify it](https://www.reddit.com/r/bodyweightfitness/wiki/faq#wiki_the_recommended_routine_.28rr.29_is_too_much_for_me_as_a_beginner._what_can_i_do.3F).
 
-* **[Minimalist Routine](https://www.reddit.com/recommended-routine/bodyweightfitness/wiki/minroutine)** if you are lacking time and just want to do something quick
+* **[Minimalist Routine](https://www.reddit.com/r/bodyweightfitness/wiki/minroutine)** if you are lacking time and just want to do something quick
 
-* **[Move](https://www.reddit.com/recommended-routine/bodyweightfitness/wiki/move)** is a basic introductory routine to build up to exercise slowly as is the Primer below.
+* **[Move](https://www.reddit.com/r/bodyweightfitness/wiki/move)** is a basic introductory routine to build up to exercise slowly as is the Primer below.
 
 * [**The Primer Routine**](https://nick-e.com/exercise-library/routines/reddit-bwf-primer/) : A very gentle introduction to exercise ***(appropriate even for absolute beginners)*** that takes all the info and exercises you need to know to start across a **2 week learning period**, allowing you to start with *just one exercise* immediately on day one, and building up to a full body 3x/week strength routine comprised of just 6 exercises! You will graduate this program with the requisite strength to move right into the BWSF Routine linked below!
 
 * [**The BWSF Routine**](https://nick-e.com/exercise-library/routines/bwsf/) : The Sequel to the Primer! This is the recommended training program for individuals that have completed the Primer and reached it's graduation requirements! (i.e You can do this program if you can do 3 sets of 8 pushups and horizontal rows with good form)
 
-* Other routines can be found in our [Wiki Index](https://www.reddit.com/recommended-routine/bodyweightfitness/wiki/index/)
+* Other routines can be found in our [Wiki Index](https://www.reddit.com/r/bodyweightfitness/wiki/index/)
 
 ### The Recommended Routine (RR) is too much for me as a beginner. What can I do?
 
@@ -33,7 +33,7 @@ Some common modifications to the Recommended Routine include the following:
 
 The set reduction method and increasing them over time if you need more is the preferred recommendation.
 
-Alternatively, the [minimalist routine](https://www.reddit.com/recommended-routine/bodyweightfitness/wiki/minroutine) is similar to the last bullet point if you want to just do something without thinking about it.
+Alternatively, the [minimalist routine](https://www.reddit.com/r/bodyweightfitness/wiki/minroutine) is similar to the last bullet point if you want to just do something without thinking about it.
 
 ### Who created the RR?
 
@@ -47,12 +47,12 @@ The routine has not been updated or changed in any major way since this update, 
 
 Yes, there are several **FREE** ones. If you are being charged for any Recommended Routine app don't use it. We do not endorse monetization of the RR. 
 
-- [Boostcamp](https://www.boostcamp.app/reddit-recommended-routine) - [bwf post](https://www.reddit.com/recommended-routine/bodyweightfitness/comments/stxlat/i_made_a_free_workout_app_with_the_recommended/) - Android and iOS
-- [Calistree Android](https://play.google.com/store/apps/details?id=com.calistree.calistree) and [Calistree iOS](https://apps.apple.com/us/app/calistree-bodyweight-fitness/id1558561315) - [bwf post](https://www.reddit.com/recommended-routine/bodyweightfitness/comments/145wbfn/i_created_a_website_to_search_through_1000/) - Android and iOS
-- [Progressive workouts android](https://play.google.com/store/apps/details?id=de.janzendevelopment.progressiveWorkouts.mobileApp&hl=en&gl=US) and [iOS](https://apps.apple.com/us/app/progressive-workouts/id1551617282) - [bwf post](https://www.reddit.com/recommended-routine/bodyweightfitness/comments/ld7tbc/recommended_routine_app_for_ios/) - Android and iOS
-- [Bodyweightfitness](https://play.google.com/store/apps/details?id=com.bodyweight.fitness.free) - [bwf link](https://www.reddit.com/recommended-routine/bodyweightfitness/comments/cy90c2/recommended_routine_app/) - Android?
-- [Fitloop](https://www.reddit.com/recommended-routine/bodyweightfitness/comments/dc6qdd/hi_i_made_a_new_ios_android_app_for_the/) - iOS and Android (mostly free, but can't log workouts w/o paying)
-- [8x3 android](https://play.google.com/store/apps/details?id=com.eightxthree.app) and [8x3 iOS](https://apps.apple.com/ua/app/8x3/id1561393713) - [bwf link](https://www.reddit.com/recommended-routine/bodyweightfitness/comments/qlqqrs/we_created_an_app_for_the_recommended_routine_and/) - Android and iOS
+- [Boostcamp](https://www.boostcamp.app/reddit-recommended-routine) - [bwf post](https://www.reddit.com/r/bodyweightfitness/comments/stxlat/i_made_a_free_workout_app_with_the_recommended/) - Android and iOS
+- [Calistree Android](https://play.google.com/store/apps/details?id=com.calistree.calistree) and [Calistree iOS](https://apps.apple.com/us/app/calistree-bodyweight-fitness/id1558561315) - [bwf post](https://www.reddit.com/r/bodyweightfitness/comments/145wbfn/i_created_a_website_to_search_through_1000/) - Android and iOS
+- [Progressive workouts android](https://play.google.com/store/apps/details?id=de.janzendevelopment.progressiveWorkouts.mobileApp&hl=en&gl=US) and [iOS](https://apps.apple.com/us/app/progressive-workouts/id1551617282) - [bwf post](https://www.reddit.com/r/bodyweightfitness/comments/ld7tbc/recommended_routine_app_for_ios/) - Android and iOS
+- [Bodyweightfitness](https://play.google.com/store/apps/details?id=com.bodyweight.fitness.free) - [bwf link](https://www.reddit.com/r/bodyweightfitness/comments/cy90c2/recommended_routine_app/) - Android?
+- [Fitloop](https://www.reddit.com/r/bodyweightfitness/comments/dc6qdd/hi_i_made_a_new_ios_android_app_for_the/) - iOS and Android (mostly free, but can't log workouts w/o paying)
+- [8x3 android](https://play.google.com/store/apps/details?id=com.eightxthree.app) and [8x3 iOS](https://apps.apple.com/ua/app/8x3/id1561393713) - [bwf link](https://www.reddit.com/r/bodyweightfitness/comments/qlqqrs/we_created_an_app_for_the_recommended_routine_and/) - Android and iOS
 
 Spreadsheets and worksheets:
 
@@ -66,21 +66,21 @@ For Recommended Routine:
 
 ### I have no equipment to do pullups / rows / dips!
 
- * **Pull-ups**: Seriously, no excuses on this one. There are no alternatives to pullups, and they're very important, so buy a pullup bar, find a tree, or find a staircase with some space under it. You could also get rings and hang them from somewhere (there are many places if you look). One user even adapted the ["bedsheet" trick intended for rows... for pullups!]( https://youtu.be/wr8ZA-cvH3s ). [This thread](https://www.reddit.com/recommended-routine/bodyweightfitness/comments/857cqj/no_idea_where_to_do_pullups_and_rows_here_are/) by /u/RockRaiders goes over a lot of alternatives you can use. The options are limitless. 
+ * **Pull-ups**: Seriously, no excuses on this one. There are no alternatives to pullups, and they're very important, so buy a pullup bar, find a tree, or find a staircase with some space under it. You could also get rings and hang them from somewhere (there are many places if you look). One user even adapted the ["bedsheet" trick intended for rows... for pullups!]( https://youtu.be/wr8ZA-cvH3s ). [This thread](https://www.reddit.com/r/bodyweightfitness/comments/857cqj/no_idea_where_to_do_pullups_and_rows_here_are/) by /u/RockRaiders goes over a lot of alternatives you can use. The options are limitless. 
 
  * **Rows**: You can do [incline rows using nothing but a bedsheet and closed door.]( https://youtu.be/wr8ZA-cvH3s )
 * You can do them under a table as demonstrated in [this video](https://www.youtube.com/watch?v=OYUxXMGVuuU), or you can put a raised object in front of your pullup bar and do rows from that.
 * A stick across two chairs may work as well. 
 * Or try hanging towels from your pullup bar.
 * You could also get rings.
-* There are a lot of ideas to be found in [this thread](http://www.reddit.com/recommended-routine/bodyweightfitness/comments/28jm7r/technique_thursday_horizontal_rows_and_pulling/) and [this one](https://www.reddit.com/recommended-routine/bodyweightfitness/comments/857cqj/no_idea_where_to_do_pullups_and_rows_here_are/). Be creative.
+* There are a lot of ideas to be found in [this thread](http://www.reddit.com/r/bodyweightfitness/comments/28jm7r/technique_thursday_horizontal_rows_and_pulling/) and [this one](https://www.reddit.com/r/bodyweightfitness/comments/857cqj/no_idea_where_to_do_pullups_and_rows_here_are/). Be creative.
 
  * **Dips**: A counter top which makes a 90 degree angle is suitable, as are the backs of two sturdy chairs, or two boxes next to eachother. Again, use your imagination.
 
 
 ### Is my routine good?
 
-If you're doing [**Recommended Routine**](https://www.reddit.com/recommended-routine/bodyweightfitness/wiki/kb/recommended_routine/)!), our answer will obviously be yes. However, if it isn't, here's a checklist, divided into two sections based on goals.
+If you're doing [**Recommended Routine**](https://www.reddit.com/r/bodyweightfitness/wiki/kb/recommended_routine/)!), our answer will obviously be yes. However, if it isn't, here's a checklist, divided into two sections based on goals.
 
 * Any good routine MUST have some form of progression. You can increase weights, increase reps and sets, go to harder progressions, and things like these. If you keep doing the same thing every week for months, you are not going to get stronger, bigger, more endurance, etc. 
 
@@ -94,13 +94,13 @@ Generally, we recommend full body routines for beginners and intermediates becau
 * A *majority* of the work is done in sets of 12 reps or less
  * Alongside this,  if you can do more than 3 sets of 8-12reps of an exercise it is recommended to move to a harder variation of the exercise to increase the intensity/force-required by moving to give the body the stimulus that it needs to get stronger. So if your routine doesn't have progression exercises and you are just doing things to failure, that's a huge red flag in itself.
 * Balanced (There should not be major imbalances between total pushing and pulling work, particularly in horizontal pulling)
-* Doesn't include high rep situps or crunches ([general justification](http://www.reddit.com/recommended-routine/bodyweightfitness/comments/16y4hp/the_faq_says_that_sit_ups_are_pointless_however/c80flk2)). Alternatives: V-ups, hanging leg raises, L-sits/V-sits, ab wheel, weighted planks. Weighted decline situps are solid for hypertrophy. Exceptions: your job requires them.
-* No planche, front lever or back lever in the [skill work](http://www.reddit.com/recommended-routine/bodyweightfitness/wiki/training_guide#wiki_skill_work_and_strength_work) part of your workout
+* Doesn't include high rep situps or crunches ([general justification](http://www.reddit.com/r/bodyweightfitness/comments/16y4hp/the_faq_says_that_sit_ups_are_pointless_however/c80flk2)). Alternatives: V-ups, hanging leg raises, L-sits/V-sits, ab wheel, weighted planks. Weighted decline situps are solid for hypertrophy. Exceptions: your job requires them.
+* No planche, front lever or back lever in the [skill work](http://www.reddit.com/r/bodyweightfitness/wiki/training_guide#wiki_skill_work_and_strength_work) part of your workout
 
 **Endurance**
 
 * Volume in a constructive progressive overload manner is the best way to go (just do the exercise a whole lot since endurance is very exercise-specific).
-* Doing tons and tons of reps per day or per workout such as 100+ pushups, pullups, squats and so on per day is a generally bad idea. [See this other FAQ entry for more details](https://www.reddit.com/recommended-routine/bodyweightfitness/wiki/faq#wiki_what_do_you_think_about_doing_100_pushups_a_day.3F)
+* Doing tons and tons of reps per day or per workout such as 100+ pushups, pullups, squats and so on per day is a generally bad idea. [See this other FAQ entry for more details](https://www.reddit.com/r/bodyweightfitness/wiki/faq#wiki_what_do_you_think_about_doing_100_pushups_a_day.3F)
 
 **Rest days**
 
@@ -113,10 +113,10 @@ If your routine meets all these criteria, it's probably good. If it doesn't, it'
 ### What's wrong with circuit training?
 The short rests in a classical circuit (exercises one after the other with no rest in between exercises) result in less volume performed for the amount of fatigue they cause, making them less effective for hypertrophy. The low rest periods prevent full replenishment of ATP stores meaning you will not be able to work at high enough relative intensities to get a meaningful strength adaptation past the absolute beginner level, either.
 
-For more, see these threads: [1](http://www.reddit.com/recommended-routine/bodyweightfitness/comments/2dfqkx/newbie_question_why_no_exercise_circuits/) [2](http://www.reddit.com/recommended-routine/bodyweightfitness/comments/22vnx2/why_are_circuits_bad/) [3](http://www.reddit.com/recommended-routine/bodyweightfitness/comments/2vural/why_shouldnt_a_workout_be_in_a_circuit/) [4](http://www.reddit.com/recommended-routine/bodyweightfitness/comments/27tvhh/what_is_wrong_with_speeding_up_a_routine_so_that/)
+For more, see these threads: [1](http://www.reddit.com/r/bodyweightfitness/comments/2dfqkx/newbie_question_why_no_exercise_circuits/) [2](http://www.reddit.com/r/bodyweightfitness/comments/22vnx2/why_are_circuits_bad/) [3](http://www.reddit.com/r/bodyweightfitness/comments/2vural/why_shouldnt_a_workout_be_in_a_circuit/) [4](http://www.reddit.com/r/bodyweightfitness/comments/27tvhh/what_is_wrong_with_speeding_up_a_routine_so_that/)
 
 ### How long should I rest between sets?
-See this [concept Wednesday post](https://www.reddit.com/recommended-routine/bodyweightfitness/comments/2jzhmw/concept_wednesday_rest/).
+See this [concept Wednesday post](https://www.reddit.com/r/bodyweightfitness/comments/2jzhmw/concept_wednesday_rest/).
 
 
 ### I'm going on vacation, how do I maintain my gains?
@@ -125,24 +125,24 @@ Unless you're going on vacation for like 2 months, enjoy your break. Your gains 
 
 ### What do you think about doing 100 pushups a day?
 
-Or 100 pullups a day, or 1000 pushups in a month, or 100 burpees, or all other high rep variations of the same exercise. In all likelihood, you shouldn't. See [here](http://www.reddit.com/recommended-routine/bodyweightfitness/comments/2t18hi/to_everyone_doing_a_pushupsquatplankwhatever/).
+Or 100 pullups a day, or 1000 pushups in a month, or 100 burpees, or all other high rep variations of the same exercise. In all likelihood, you shouldn't. See [here](http://www.reddit.com/r/bodyweightfitness/comments/2t18hi/to_everyone_doing_a_pushupsquatplankwhatever/).
 
 
 ### What about Bar Brothers / BarStarzz / Convict Conditioning / Freeletics / Insanity / P90X / THENX / etcetera?
-See the [Program Review section](http://www.reddit.com/recommended-routine/bodyweightfitness/wiki/kb/program_reviews) of our Wiki. If you can't find it there, see if it passes the checks in "Is my routine good?". If it does, consider posting to the sub.
+See the [Program Review section](http://www.reddit.com/r/bodyweightfitness/wiki/kb/program_reviews) of our Wiki. If you can't find it there, see if it passes the checks in "Is my routine good?". If it does, consider posting to the sub.
 
 
 ### Can I train everyday?
-That depends on your program. If you're training for strength or muscle mass, it's important to know that **you get stronger/bigger while you rest**, because of the supercompensation effect. See [training basics](/recommended-routine/bodyweightfitness/wiki/kb/training_basics) for a detailed explanation. Training daily for strength/muscle mass is possible, but it's a more advanced technique and should be programmed correctly. If you're asking this question, it's very likely not for you.  
+That depends on your program. If you're training for strength or muscle mass, it's important to know that **you get stronger/bigger while you rest**, because of the supercompensation effect. See [training basics](/r/bodyweightfitness/wiki/kb/training_basics) for a detailed explanation. Training daily for strength/muscle mass is possible, but it's a more advanced technique and should be programmed correctly. If you're asking this question, it's very likely not for you.  
   
 To see what you *can* do on your off days, see the question below.
 
 
 ### What can I do on my off days?
 
-If you are on a strength program like our recommended routine, you need to rest on your off days in order to recover and get stronger. However, this doesn't mean that you have to sit on your ass all day. You can still do recreational physical activity like playing a pick-up game of basketball or going on a bike ride. **Walking** is most definitely fine as well. But more specific to bodyweight training you can do skill work like handstands and elbow levers, as well as mobility work (see "[How do I get flexible?](https://www.reddit.com/recommended-routine/bodyweightfitness/wiki/faq#wiki_how_do_i_get_flexible.3F)"). 
+If you are on a strength program like our recommended routine, you need to rest on your off days in order to recover and get stronger. However, this doesn't mean that you have to sit on your ass all day. You can still do recreational physical activity like playing a pick-up game of basketball or going on a bike ride. **Walking** is most definitely fine as well. But more specific to bodyweight training you can do skill work like handstands and elbow levers, as well as mobility work (see "[How do I get flexible?](https://www.reddit.com/r/bodyweightfitness/wiki/faq#wiki_how_do_i_get_flexible.3F)"). 
 
-These will help you improve your regular workouts. If you're planning on doing a certain sport or activity and are wondering if it will affect your recovery then you can search the sub for others experience as there's plenty of discussion on this available. Better yet, try it yourself and adjust your training as needed. Even something as intense as climbing can be combined with BWF if done right ([see here](https://www.reddit.com/recommended-routine/bodyweightfitness/comments/3sehab/concept_wednesday_combining_rock_climbing_with_bwf/)). **In regards to cardio, see the question below.**
+These will help you improve your regular workouts. If you're planning on doing a certain sport or activity and are wondering if it will affect your recovery then you can search the sub for others experience as there's plenty of discussion on this available. Better yet, try it yourself and adjust your training as needed. Even something as intense as climbing can be combined with BWF if done right ([see here](https://www.reddit.com/r/bodyweightfitness/comments/3sehab/concept_wednesday_combining_rock_climbing_with_bwf/)). **In regards to cardio, see the question below.**
 
 
 ### How do I combine cardio (running, swimming, cycling, rowing, etc.) with bodyweight training?
@@ -218,7 +218,7 @@ This is fine to do for the Recommend Routine or any other routine. Since its the
 
 ### I want to move onto a split routine, should I?
 
-[Read this post](https://www.reddit.com/recommended-routine/bodyweightfitness/comments/6talge/split_routines_tend_to_be_suboptimal_for_beginners/) by /u/eshlow on why split routines tend to be suboptimal for beginners.
+[Read this post](https://www.reddit.com/r/bodyweightfitness/comments/6talge/split_routines_tend_to_be_suboptimal_for_beginners/) by /u/eshlow on why split routines tend to be suboptimal for beginners.
 
 
 ### I usually train with barbells/dumbbells, how do I integrate that with bodyweight training?
@@ -259,13 +259,13 @@ Here are some pointers:
 
 You can find a basic beginner program for stretching [here](https://web.archive.org/web/20200203024733/https://phrakture.github.io/starting-stretching.html), which is accompanied by the program [here](https://web.archive.org/web/20200920203207/https://phrakture.github.io/molding-mobility.html). It will cover most bases and go well with our recommended routine.
 
-Another good resource is [Kit Laughlin's work](https://www.youtube.com/user/KitLaughlin). You can find his AMA [here](/recommended-routine/bodyweightfitness/comments/2bcaby/kit_laughlin_here_creator_of_stretch_therapy_and/).
+Another good resource is [Kit Laughlin's work](https://www.youtube.com/user/KitLaughlin). You can find his AMA [here](/r/bodyweightfitness/comments/2bcaby/kit_laughlin_here_creator_of_stretch_therapy_and/).
 
 Check out /r/flexibility and the [flexibility friday archive](/r/flexibility/comments/19he16/i_thought_you_guys_may_like_this/) for more info.
 
 
 ### What is a good morning routine to do daily?
-Depends on your goals. If you want to get stronger/bigger, lose weight, go to "What routine should I do?". If your only goal is to get active in the morning, try out [molding mobility](https://phrakture.github.io/molding-mobility.html), maybe do some [cat-cows](http://www.reddit.com/r/yoga/comments/2hw6kp/i_do_catcow_every_morning_before_getting_on_the/) or [scapular shrugs](http://www.reddit.com/recommended-routine/bodyweightfitness/comments/2d5n5i/my_newest_video_is_on_how_to_do_scapular_shrugs/). You could also play around with the bodyline work.
+Depends on your goals. If you want to get stronger/bigger, lose weight, go to "What routine should I do?". If your only goal is to get active in the morning, try out [molding mobility](https://phrakture.github.io/molding-mobility.html), maybe do some [cat-cows](http://www.reddit.com/r/yoga/comments/2hw6kp/i_do_catcow_every_morning_before_getting_on_the/) or [scapular shrugs](http://www.reddit.com/r/bodyweightfitness/comments/2d5n5i/my_newest_video_is_on_how_to_do_scapular_shrugs/). You could also play around with the bodyline work.
 
 The point here is that it doesn't really matter as long as it gets you up and moving. Mobility work is great for this. If you're looking for a workout, go do an actual workout.
 
@@ -282,9 +282,9 @@ We don't recommend tracking your calories burned through exercise explicitly. In
 ## Diet
 ### Where can I find answers to my questions about diet?
 
-We built an article about nutrition in terms of gaining, losing or maintaining called [Nutritional Phases](https://www.reddit.com/recommended-routine/bodyweightfitness/about/wiki/nutrition_phases/) it gives you a guide on when to choose to bulk, cut or maintain and what these terms even mean.
+We built an article about nutrition in terms of gaining, losing or maintaining called [Nutritional Phases](https://www.reddit.com/r/bodyweightfitness/about/wiki/nutrition_phases/) it gives you a guide on when to choose to bulk, cut or maintain and what these terms even mean.
 
-We discussed diet in our [Theory Thursday threads](https://www.reddit.com/recommended-routine/bodyweightfitness/wiki/weekly/conceptwednesday#wiki_diet) which can give you some insights. 
+We discussed diet in our [Theory Thursday threads](https://www.reddit.com/r/bodyweightfitness/wiki/weekly/conceptwednesday#wiki_diet) which can give you some insights. 
 
 You can also find answers to most of your diet questions in the [/r/fitness FAQ](https://thefitness.wiki/improving-your-diet/). 
 
@@ -302,15 +302,15 @@ However, the good news is, the fit, athletic look that most people will be going
 
 The most significant limitation of bodyweight exercise is that weight training works much better for legs.
 
-We have [Monthly BWF Physique](https://www.reddit.com/recommended-routine/bodyweightfitness/search?q=Monthly+BWF+Physique+Thread+for&restrict_sr=on&sort=relevance&t=all) threads for some real life examples. [Here](http://www.reddit.com/recommended-routine/bodyweightfitness/comments/2wpw9r/what_does_someone_who_has_only_used_bodyweight/) is another thread with some more pictures from subreddit members.  [Here](https://www.reddit.com/recommended-routine/bodyweightfitness/comments/3hhmk3/people_of_rbodyweightfitness_what_do_you_look_like/) is another one.
+We have [Monthly BWF Physique](https://www.reddit.com/r/bodyweightfitness/search?q=Monthly+BWF+Physique+Thread+for&restrict_sr=on&sort=relevance&t=all) threads for some real life examples. [Here](http://www.reddit.com/r/bodyweightfitness/comments/2wpw9r/what_does_someone_who_has_only_used_bodyweight/) is another thread with some more pictures from subreddit members.  [Here](https://www.reddit.com/r/bodyweightfitness/comments/3hhmk3/people_of_rbodyweightfitness_what_do_you_look_like/) is another one.
 
-[Here](https://www.reddit.com/recommended-routine/bodyweightfitness/comments/37vvdm/progress_ive_been_doing_the_recommended_routine/) is a larger progress post, courtesy of /u/ImChrisBrown.
+[Here](https://www.reddit.com/r/bodyweightfitness/comments/37vvdm/progress_ive_been_doing_the_recommended_routine/) is a larger progress post, courtesy of /u/ImChrisBrown.
 
 
 ### What are my limits if I'm tall?
 For taller guys, the levers (front lever, back lever, planche) are going to be significantly harder, but especially front and back levers are not unattainable. The only way to find out where your limits lie is to work hard and really look for them.
 
-We've had a couple threads on the subject: [here](http://www.reddit.com/recommended-routine/bodyweightfitness/comments/1qow0x/are_levers_attainable_for_2_meter_tall_guy/), [here](http://www.reddit.com/recommended-routine/bodyweightfitness/comments/10qdxj/any_tall_guys_with_advanced_isometrics_here/), [here](http://www.reddit.com/recommended-routine/bodyweightfitness/comments/1wdhld/how_much_harder_is_it_for_a_someone_thats_190cm/), [here](http://www.reddit.com/recommended-routine/bodyweightfitness/comments/23jb0d/is_65_too_tall_to_do_full_planche/). You can find more by searching the subreddit.
+We've had a couple threads on the subject: [here](http://www.reddit.com/r/bodyweightfitness/comments/1qow0x/are_levers_attainable_for_2_meter_tall_guy/), [here](http://www.reddit.com/r/bodyweightfitness/comments/10qdxj/any_tall_guys_with_advanced_isometrics_here/), [here](http://www.reddit.com/r/bodyweightfitness/comments/1wdhld/how_much_harder_is_it_for_a_someone_thats_190cm/), [here](http://www.reddit.com/r/bodyweightfitness/comments/23jb0d/is_65_too_tall_to_do_full_planche/). You can find more by searching the subreddit.
 
 
 ### How soon will I see results?
@@ -333,7 +333,7 @@ Resistance bands come in several degrees of resistance, we can usually divide th
 
 
 ### How do I set up/maintain my rings?
-We have compiled a list of threads with different ways of setting up and maintaining your rings [here](https://www.reddit.com/recommended-routine/bodyweightfitness/wiki/diy#wiki_all_about_rings). 
+We have compiled a list of threads with different ways of setting up and maintaining your rings [here](https://www.reddit.com/r/bodyweightfitness/wiki/diy#wiki_all_about_rings). 
 
 
 ### What pullup bar should I get?
@@ -351,7 +351,7 @@ If you want to buy a weight vest, the vest needs to not be massively oversized (
 
 A 10-15lbs non-incremental sand vest is not gonna cut it, and is very much going to be a waste of money.
 
-If none of the above are available to you, [here is a DIY way of loading weight to your movement.](https://www.reddit.com/recommended-routine/bodyweightfitness/comments/fp8eec/diy_push_up_harness_and_loading_pin/)
+If none of the above are available to you, [here is a DIY way of loading weight to your movement.](https://www.reddit.com/r/bodyweightfitness/comments/fp8eec/diy_push_up_harness_and_loading_pin/)
 
 
 ### What about TRX/Suspension training?
@@ -360,7 +360,7 @@ If you want to buy some equipment, get rings instead. Rings allow you to get on 
 
 ## Specific Exercise Questions
 ### My legs hurt/cramp when I do L-sit!/Leg Raises/My straight leg hurts/cramps when I do pistol squats!
-This is normal and common. It's cause you're weak in that position. Keep working it, massage it and it'll go away with time. Additional [compression work](https://www.reddit.com/recommended-routine/bodyweightfitness/wiki/exercises/l-sit#wiki_compression_work) in your mobility routine helps as well.
+This is normal and common. It's cause you're weak in that position. Keep working it, massage it and it'll go away with time. Additional [compression work](https://www.reddit.com/r/bodyweightfitness/wiki/exercises/l-sit#wiki_compression_work) in your mobility routine helps as well.
 
 
 ### I can't keep my legs together on tuck L-sit!
@@ -443,13 +443,13 @@ Most likely nothing. Beginners often get the idea that they need to "feel the bu
 
 
 ### What are some good exercises for X muscle/muscle group/bodypart?
-If you have to ask this question, you're likely nowhere near advanced enough to worry about training specific muscles. Thinking about movements in your training is more effective, and you'll learn as you go. See [this post](http://www.reddit.com/recommended-routine/bodyweightfitness/comments/1hb1bd/on_movements_and_muscles/) for more details.
+If you have to ask this question, you're likely nowhere near advanced enough to worry about training specific muscles. Thinking about movements in your training is more effective, and you'll learn as you go. See [this post](http://www.reddit.com/r/bodyweightfitness/comments/1hb1bd/on_movements_and_muscles/) for more details.
 
-If you're still hell-bent on finding exercises, please review the [exercise wiki](https://www.reddit.com/recommended-routine/bodyweightfitness/wiki/playground), and search the subreddit.
+If you're still hell-bent on finding exercises, please review the [exercise wiki](https://www.reddit.com/r/bodyweightfitness/wiki/playground), and search the subreddit.
 
 
 ### My X hurts when I do Y!
-Check your form ([form check fridays](https://www.reddit.com/recommended-routine/bodyweightfitness/search?q=form+check+friday+author%3Am092+OR+author%3Aautomoderator&restrict_sr=on&sort=new&t=all) or in the [Daily Questions Thread](https://www.reddit.com/recommended-routine/bodyweightfitness/search?q=BWF+Daily+Discussion+and+Beginner%2FRR+Questions+Thread+for&restrict_sr=on&sort=new&t=all)). If it's bad, fix it. If that fixes it, great!  
+Check your form ([form check fridays](https://www.reddit.com/r/bodyweightfitness/search?q=form+check+friday+author%3Am092+OR+author%3Aautomoderator&restrict_sr=on&sort=new&t=all) or in the [Daily Questions Thread](https://www.reddit.com/r/bodyweightfitness/search?q=BWF+Daily+Discussion+and+Beginner%2FRR+Questions+Thread+for&restrict_sr=on&sort=new&t=all)). If it's bad, fix it. If that fixes it, great!  
 Otherwise, back off and rest it for a week. Doing non-painful stuff is alright (it's only a short time, don't worry about imbalances). After your rest, work back up slowly.  
 If your pain still isn't gone, see a medical professional as this is something that should be assessed by a professional. Do not post to the sub as that violates rule 2. 
 
@@ -460,11 +460,11 @@ Bend your legs. You can either bend at the hips and keep the legs straight, go i
 During the exercise, keep your body shape: if the legs are straight, they stay straight, and if they're bent, they stay bent. Hip angle can change a bit if you have straight legs, but not when you do the tuck-L position.
 
 ### I got my first Muscle Up! What advice do you have for me now?
-[Read this thread and top comment by Antranik.](https://www.reddit.com/recommended-routine/bodyweightfitness/comments/81ifcc/i_can_do_muscleups_now_what/dv3lrap/?context=3)
+[Read this thread and top comment by Antranik.](https://www.reddit.com/r/bodyweightfitness/comments/81ifcc/i_can_do_muscleups_now_what/dv3lrap/?context=3)
 
 ## Miscellaneous
 ### What do you think about [insert program here]?
-Check out our [program reviews section](http://www.reddit.com/recommended-routine/bodyweightfitness/wiki/kb/program_reviews). If it's not there, see the checklist in ["Is my routine good?"](https://www.reddit.com/recommended-routine/bodyweightfitness/wiki/faq#wiki_is_my_routine_good.3F). .f it meets all routine goals criteria, feel free to post a review request in the sub. **SEARCH FIRST. NO ADVERTISING.**
+Check out our [program reviews section](http://www.reddit.com/r/bodyweightfitness/wiki/kb/program_reviews). If it's not there, see the checklist in ["Is my routine good?"](https://www.reddit.com/r/bodyweightfitness/wiki/faq#wiki_is_my_routine_good.3F). .f it meets all routine goals criteria, feel free to post a review request in the sub. **SEARCH FIRST. NO ADVERTISING.**
 
 ### How do I improve my posture?
 [Poor posture](https://en.wikipedia.org/wiki/Poor_posture#Risks) can lead to many health issues and chronic pains. Posture is also important in our exercises. If you have good posture to begin with, you don't need to spend much thought on assuming the proper positions for exercises as that will come naturally.  
@@ -526,11 +526,11 @@ As a general rule, if it's not painful it's probably not an issue. If you're sti
 
 
 ### What does X term / abbreviation mean?
-Check our [glossary](https://www.reddit.com/recommended-routine/bodyweightfitness/wiki/kb/glossary).
+Check our [glossary](https://www.reddit.com/r/bodyweightfitness/wiki/kb/glossary).
 
 
 ### Do you have any book recommendations?
-Here are a couple threads on the subject: [1](https://www.reddit.com/recommended-routine/bodyweightfitness/comments/3fat5c/book_recommendations/), [2](https://www.reddit.com/recommended-routine/bodyweightfitness/comments/1ywsir/recommend_any_good_books/), [3](https://www.reddit.com/recommended-routine/bodyweightfitness/comments/174iaq/good_books_for_a_beginner/), [4](https://www.reddit.com/recommended-routine/bodyweightfitness/comments/2cccw9/are_there_any_good_books_on_bodyweight_fitness/), [5](https://www.reddit.com/recommended-routine/bodyweightfitness/comments/239mto/what_are_the_best_books_available_on_bodyweight/), [6](https://www.reddit.com/recommended-routine/bodyweightfitness/comments/37iyld/any_good_books_to_buy_for_bodyweight_workouts/), [7](https://www.reddit.com/recommended-routine/bodyweightfitness/comments/2639uo/suggestions_for_book_references/).
+Here are a couple threads on the subject: [1](https://www.reddit.com/r/bodyweightfitness/comments/3fat5c/book_recommendations/), [2](https://www.reddit.com/r/bodyweightfitness/comments/1ywsir/recommend_any_good_books/), [3](https://www.reddit.com/r/bodyweightfitness/comments/174iaq/good_books_for_a_beginner/), [4](https://www.reddit.com/r/bodyweightfitness/comments/2cccw9/are_there_any_good_books_on_bodyweight_fitness/), [5](https://www.reddit.com/r/bodyweightfitness/comments/239mto/what_are_the_best_books_available_on_bodyweight/), [6](https://www.reddit.com/r/bodyweightfitness/comments/37iyld/any_good_books_to_buy_for_bodyweight_workouts/), [7](https://www.reddit.com/r/bodyweightfitness/comments/2639uo/suggestions_for_book_references/).
 
 
 ### I heard something about breadloaf abs! Should I be worried?
@@ -545,8 +545,8 @@ There is no need to do stomach vacuums or any other isolation work. However, You
 It depends on how much weight you're gaining. 
 
 If it's a small amount of weight, say a pound (~0.5 kg) a week, the effect will be very small as to be almost unnoticable. However, you may have some more trouble adding reps because you're (very slightly) heavier. If you're gaining over 2 lbs (~1 kg) a week, it's definitely going to be noticeable and your exercises will get harder. This doesn't mean you're losing absolute strength, but you are losing relative strength.    
-For a more in-depth take on weight, strength and how they relate to each other [see here](https://www.reddit.com/recommended-routine/bodyweightfitness/comments/5vj39w/concept_wednesday_relative_strength/).
+For a more in-depth take on weight, strength and how they relate to each other [see here](https://www.reddit.com/r/bodyweightfitness/comments/5vj39w/concept_wednesday_relative_strength/).
 
 
 ### I feel pain in my joints/I think I have tendonitis, what should I do?
-[This isn't the place to be seeking medical advice per the rules (no medical advice).](https://www.reddit.com/recommended-routine/bodyweightfitness/wiki/rules#wiki_2._no_medical_advice.) However, questions about tendonitis pop up often and since the internet is full of bad advice on the subject, we think the best approach is to try and provide some solid information than leave people at their own devices about this: A [well-researched article on tendonitis](http://stevenlow.org/overcoming-tendonitis/). Here are the [search results for tendonitis.](https://www.reddit.com/recommended-routine/bodyweightfitness/search?q=tendonitis&restrict_sr=on&sort=relevance&t=all) Read all these threads and refrain from posting new ones because the topic has been discussed extensively before. Also, we **strongly** encourage you to see a qualified professional such as a medical doctor and sports oriented physiotherapist. If you do choose to not see a doctor then rest and hope it heals properly. **DO IT AT YOUR OWN RISK**.
+[This isn't the place to be seeking medical advice per the rules (no medical advice).](https://www.reddit.com/r/bodyweightfitness/wiki/rules#wiki_2._no_medical_advice.) However, questions about tendonitis pop up often and since the internet is full of bad advice on the subject, we think the best approach is to try and provide some solid information than leave people at their own devices about this: A [well-researched article on tendonitis](http://stevenlow.org/overcoming-tendonitis/). Here are the [search results for tendonitis.](https://www.reddit.com/r/bodyweightfitness/search?q=tendonitis&restrict_sr=on&sort=relevance&t=all) Read all these threads and refrain from posting new ones because the topic has been discussed extensively before. Also, we **strongly** encourage you to see a qualified professional such as a medical doctor and sports oriented physiotherapist. If you do choose to not see a doctor then rest and hope it heals properly. **DO IT AT YOUR OWN RISK**.

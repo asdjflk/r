@@ -7,7 +7,7 @@ In it's most basic form, a support is holding yourself up. This can be with ring
 
 * Arms straight
 * Body straight or slightly hollow
-* Depress the shoulderblades ([what does that even mean?](/recommended-routine/bodyweightfitness/wiki/kb/positioning))
+* Depress the shoulderblades ([what does that even mean?](/r/bodyweightfitness/wiki/kb/positioning))
 
 ### Progression
 
@@ -15,11 +15,11 @@ In it's most basic form, a support is holding yourself up. This can be with ring
 
  * See general form cues.
  * The stability of the PB allows you to build some strength and perfect your form. Have a minimum 60sec hold before moving on to the rings. 
- * [*What if I don't have parallel bars?*](/recommended-routine/bodyweightfitness/wiki/exercises/support#wiki_parallel_bars)  
+ * [*What if I don't have parallel bars?*](/r/bodyweightfitness/wiki/exercises/support#wiki_parallel_bars)  
 
 * [**Ring Support Hold**](http://i.imgur.com/hGRuEkA.jpg)
 
-  * [*What if I don't have rings?*](/recommended-routine/bodyweightfitness/wiki/exercises/support#wiki_rings)  
+  * [*What if I don't have rings?*](/r/bodyweightfitness/wiki/exercises/support#wiki_rings)  
 
 * [**Rings Turned Out Support Hold**](https://www.youtube.com/watch?v=-4IF7z6A71s) (RTO Support)
 

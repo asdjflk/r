@@ -5,7 +5,7 @@
  * Strength
  * Hypertrophy/Muscle Gain (provided your [diet](https://thefitness.wiki/improving-your-diet/) is aligned for this goal)
  * Fat Loss (provided your [diet](https://thefitness.wiki/improving-your-diet/) is aligned for this goal)
- * Check the [goals page for more details](/recommended-routine/bodyweightfitness/wiki/kb/goals) to see if this routine will help you reach your goals.
+ * Check the [goals page for more details](/r/bodyweightfitness/wiki/kb/goals) to see if this routine will help you reach your goals.
 
 **Overall Structure of this Routine:**
 
@@ -20,18 +20,18 @@
 
 * **You will need access to:**
      * A place to do Rows (Low Bar, or Gymnastics Rings, a Sturdy Table, or even [a knotted bedsheet in a door](https://www.youtube.com/watch?v=wr8ZA-cvH3s); This is ***non negotiable*** regardless of physical skill level. Rows are absolutely integral to the quality of the routine and cannot be substituted.)
-     * A place to do pull ups, if you are at the point in the program where you add pull-ups (monkey bars, Pull-up bar, rings, etc). Additional alternatives in the [FAQ](/recommended-routine/bodyweightfitness/wiki/faq#wiki_i_have_no_equipment_to_do_pullups_.2F_rows_.2F_dips.21)
+     * A place to do pull ups, if you are at the point in the program where you add pull-ups (monkey bars, Pull-up bar, rings, etc). Additional alternatives in the [FAQ](/r/bodyweightfitness/wiki/faq#wiki_i_have_no_equipment_to_do_pullups_.2F_rows_.2F_dips.21)
      * [Parallel Bars](http://antranik.org/wp-content/uploads/2014/01/antranik-holding-support-hold-on-parallel-bars.jpg) (There are progressions that can be done in place of these once you have reached the appropriate level which do not require these, so if you absolutely cannot find the corner of a kitchen counter, two sturdy chairs, or anything like that, do not let this bar you from starting.)
 
 
 
 ## Weekly Schedule
 
-* 3x a week, with at least one rest day (or [skill day](https://www.reddit.com/recommended-routine/bodyweightfitness/wiki/kb/skillday)) in between workout days.
+* 3x a week, with at least one rest day (or [skill day](https://www.reddit.com/r/bodyweightfitness/wiki/kb/skillday)) in between workout days.
 
 * Examples: Monday, Wednesday, Friday (MWF) or Tuesday, Thursday, Saturday (TuThSat) or Wednesday, Friday, Sunday (WFSun). Whatever fits your schedule.
 
-* Don't purposely split the workout into separate days unless you have to. It's meant to be a full body workout.  Here's [why](https://www.reddit.com/recommended-routine/bodyweightfitness/comments/6talge/split_routines_tend_to_be_suboptimal_for_beginners/).
+* Don't purposely split the workout into separate days unless you have to. It's meant to be a full body workout.  Here's [why](https://www.reddit.com/r/bodyweightfitness/comments/6talge/split_routines_tend_to_be_suboptimal_for_beginners/).
 
 
 ## How Progressions Work
@@ -58,36 +58,36 @@
 | 10+ | [GMB Wrist Prep](https://www.youtube.com/watch?v=mSZWSQSSEjE) | Do as many reps as you want|
 |30s| [Deadbugs](http://www.nick-e.com/deadbug/) |
 | 10 | [Arch Hangs](https://youtu.be/C995b3KLXS4?t=7s) | Add these after you reach Negative Pullups. Beginner attempts will look more like [this](https://www.youtube.com/watch?v=HoE-C85ZlCE) |
-| 30s | [Support Hold](/recommended-routine/bodyweightfitness/wiki/exercises/support) | Add these after you reach Negative Dips. |
-| 10 | [Easier Squat progression](/recommended-routine/bodyweightfitness/wiki/exercises/squat) | Add these after you reach Bulgarian Split Squats. |
-| 10 | [Easier Hinge progression](/recommended-routine/bodyweightfitness/wiki/exercises/hinge) | Add these after you reach Banded Nordic Curls. |
+| 30s | [Support Hold](/r/bodyweightfitness/wiki/exercises/support) | Add these after you reach Negative Dips. |
+| 10 | [Easier Squat progression](/r/bodyweightfitness/wiki/exercises/squat) | Add these after you reach Bulgarian Split Squats. |
+| 10 | [Easier Hinge progression](/r/bodyweightfitness/wiki/exercises/hinge) | Add these after you reach Banded Nordic Curls. |
 
 
 
 ## Strength work (40-60 minutes)
 
 ### **First Pair**
- * 3x5-8 [Pull-up progression](/recommended-routine/bodyweightfitness/wiki/exercises/pullup) 
- * 3x5-8 [Squat Progression](/recommended-routine/bodyweightfitness/wiki/exercises/squat)  
+ * 3x5-8 [Pull-up progression](/r/bodyweightfitness/wiki/exercises/pullup) 
+ * 3x5-8 [Squat Progression](/r/bodyweightfitness/wiki/exercises/squat)  
  **Note: If you have access to barbells (and a squat rack), we recommend you [learn how to use them instead of the squat progression.](/r/#wiki_integrating_barbell_squats_and_deadlifts) after you have perfected the basic squat.**
  
 
 ### **Second Pair**  
- * 3x5-8 [Dip progression](/recommended-routine/bodyweightfitness/wiki/exercises/dip) 
- * 3x5-8 [Hinge Progression](/recommended-routine/bodyweightfitness/wiki/exercises/hinge)  
+ * 3x5-8 [Dip progression](/r/bodyweightfitness/wiki/exercises/dip) 
+ * 3x5-8 [Hinge Progression](/r/bodyweightfitness/wiki/exercises/hinge)  
  **Note: If you have access to barbells, we recommend you [learn how to use them instead of the hinge progression.](/r/#wiki_integrating_barbell_squats_and_deadlifts) after you have perfected the basic hinge progression.**
  
 
 ### **Third Pair**  
- * 3x5-8 [Row Progression](/recommended-routine/bodyweightfitness/wiki/exercises/row)
- * 3x5-8 [Push-up progression](/recommended-routine/bodyweightfitness/wiki/exercises/pushup)  
+ * 3x5-8 [Row Progression](/r/bodyweightfitness/wiki/exercises/row)
+ * 3x5-8 [Push-up progression](/r/bodyweightfitness/wiki/exercises/pushup)  
  
 
 ### **Core Triplet**  
- * 3x8-12 [Anti-Extension progression](/recommended-routine/bodyweightfitness/wiki/exercises/core#wiki_anti-extension)
- * 3x8-12 [Anti-Rotation progression](/recommended-routine/bodyweightfitness/wiki/exercises/core#wiki_anti-rotation)
- * 3x8-12 [Extension progression](/recommended-routine/bodyweightfitness/wiki/exercises/core#wiki_extension)   
- **Note: Mobile users, if the above links don't work then [click here](/recommended-routine/bodyweightfitness/wiki/exercises/core) and manually scroll to each section.**
+ * 3x8-12 [Anti-Extension progression](/r/bodyweightfitness/wiki/exercises/core#wiki_anti-extension)
+ * 3x8-12 [Anti-Rotation progression](/r/bodyweightfitness/wiki/exercises/core#wiki_anti-rotation)
+ * 3x8-12 [Extension progression](/r/bodyweightfitness/wiki/exercises/core#wiki_extension)   
+ **Note: Mobile users, if the above links don't work then [click here](/r/bodyweightfitness/wiki/exercises/core) and manually scroll to each section.**
 
 **Instructions:** There are nine exercises. These exercises are performed in pairs and triplets to save time. Pairing two exercises means doing a set of the first exercise, resting 90 seconds, then doing a set of the second exercise, resting 90 seconds, and repeating until you've done 3 sets of that pair. For the triplet, you do a set of the first exercise, rest 60 seconds, do a set of the second exercise, rest 60 seconds, do a set of the third exercise, rest 60 seconds, and repeating until you've done 3 sets of that triplet.  See the FAQs below if you're still confused.
 
@@ -95,7 +95,7 @@
 
 **Tempo:** Ideally, all exercises are to be performed in "10X0" (1,0,X,O)  tempo. The numbers explain how long each phase should last, and go in the order of: (1 second eccentric) On the way Down / (0 second) Pause at the Bottom / (X - accelerating fast concentric) On the way up / (0 second) Pause at the top. So 10X0 means 1 'mississippi' second duration on the way down, no pause at the bottom, explode up and no pause at the top. When "exploding up", if the actual movement is slow, that's okay, it's the intent that matters.
 
-Overall, if your pull-up max is say 8 reps, then go for one rep short of failure such as 7-7-7 instead of 8-6-5. The key is to not work at failure for the first set or two because it significantly detracts from performance in later sets which reduces your ability to perform good reps and maximize volume to get stronger and bigger muscles. The 90 second pairing is so that there is minimum 3 minutes rest between each set, which is 3 minutes total. This rest time is where there is 99% replenishment of ATP in the muscles, so you are not limited by fatigue in the muscles. Sticking with failure-1 repetitions and 3 total minutes between sets of the same exercise allows you to maximize volume and effort level which is essential for strength and hypertrophy. See [here](https://www.reddit.com/recommended-routine/bodyweightfitness/comments/7ab7c6/strict_form_vs_reps/dp8xymm/) for more discussion.
+Overall, if your pull-up max is say 8 reps, then go for one rep short of failure such as 7-7-7 instead of 8-6-5. The key is to not work at failure for the first set or two because it significantly detracts from performance in later sets which reduces your ability to perform good reps and maximize volume to get stronger and bigger muscles. The 90 second pairing is so that there is minimum 3 minutes rest between each set, which is 3 minutes total. This rest time is where there is 99% replenishment of ATP in the muscles, so you are not limited by fatigue in the muscles. Sticking with failure-1 repetitions and 3 total minutes between sets of the same exercise allows you to maximize volume and effort level which is essential for strength and hypertrophy. See [here](https://www.reddit.com/r/bodyweightfitness/comments/7ab7c6/strict_form_vs_reps/dp8xymm/) for more discussion.
 
 **That's it! You're done! It's over! You did it!**
 
@@ -111,10 +111,10 @@ Overall, if your pull-up max is say 8 reps, then go for one rep short of failure
 
 ### Free Apps for Recommended Routine
 
-- [Boostcamp](https://www.boostcamp.app/reddit-recommended-routine) - [bwf post](https://www.reddit.com/recommended-routine/bodyweightfitness/comments/pl03sq/i_made_a_free_fitness_app_with_the_recommended/) - Android and iOS
-- [Progressive workouts](https://www.reddit.com/recommended-routine/bodyweightfitness/comments/ld7tbc/recommended_routine_app_for_ios/) [-🤖-](https://play.google.com/store/apps/details?id=de.janzendevelopment.progressiveWorkouts.mobileApp&hl=en&gl=US) [-🍎-](https://apps.apple.com/us/app/progressive-workouts/id1551617282) - Android and IOS
-- [Bodyweightfitness](https://play.google.com/store/apps/details?id=com.bodyweight.fitness.free) - [bwf link](https://www.reddit.com/recommended-routine/bodyweightfitness/comments/cy90c2/recommended_routine_app/) - Android?
-- [8x3 android](https://play.google.com/store/apps/details?id=com.eightxthree.app) and [8x3 iOS](https://apps.apple.com/ua/app/8x3/id1561393713) - [bwf link](https://www.reddit.com/recommended-routine/bodyweightfitness/comments/qlqqrs/we_created_an_app_for_the_recommended_routine_and/) - Android and iOS
+- [Boostcamp](https://www.boostcamp.app/reddit-recommended-routine) - [bwf post](https://www.reddit.com/r/bodyweightfitness/comments/pl03sq/i_made_a_free_fitness_app_with_the_recommended/) - Android and iOS
+- [Progressive workouts](https://www.reddit.com/r/bodyweightfitness/comments/ld7tbc/recommended_routine_app_for_ios/) [-🤖-](https://play.google.com/store/apps/details?id=de.janzendevelopment.progressiveWorkouts.mobileApp&hl=en&gl=US) [-🍎-](https://apps.apple.com/us/app/progressive-workouts/id1551617282) - Android and IOS
+- [Bodyweightfitness](https://play.google.com/store/apps/details?id=com.bodyweight.fitness.free) - [bwf link](https://www.reddit.com/r/bodyweightfitness/comments/cy90c2/recommended_routine_app/) - Android?
+- [8x3 android](https://play.google.com/store/apps/details?id=com.eightxthree.app) and [8x3 iOS](https://apps.apple.com/ua/app/8x3/id1561393713) - [bwf link](https://www.reddit.com/r/bodyweightfitness/comments/qlqqrs/we_created_an_app_for_the_recommended_routine_and/) - Android and iOS
 
 ------------------------------------
 
@@ -132,7 +132,7 @@ Some common modifications to the Recommended Routine include the following:
 
 The set reduction method and increasing them over time if you need more is the preferred recommendation.
 
-Alternatively, the [minimalist routine](/recommended-routine/bodyweightfitness/wiki/minroutine) is similar to the last bullet point if you want to just do something without thinking about it.
+Alternatively, the [minimalist routine](/r/bodyweightfitness/wiki/minroutine) is similar to the last bullet point if you want to just do something without thinking about it.
 
 
 ### **I Don't Have This Much Time!**
@@ -175,12 +175,12 @@ Yes, as long as you leave the warm-up in the warm-up, and the strength work in t
 
 When you start plateauing (not making progress) for long periods of time (weeks) while your diet, nutrition, and stress levels are in check. You can also move on if you exhaust all the progressions. Or whenever you feel like, but that may not be optimal.
 
-As to what intermediate routine you should do, that depends on your goals. If you don't know what those are, you'd better start thinking about it! Bodyweight training is very varied, and this routine will have given you a solid basis for most other things you might want to get into. We recommend you develop your own intermediate routine. A short guide can be found [here](http://www.reddit.com/recommended-routine/bodyweightfitness/wiki/training_guide#wiki_developing_an_intermediate_routine).
+As to what intermediate routine you should do, that depends on your goals. If you don't know what those are, you'd better start thinking about it! Bodyweight training is very varied, and this routine will have given you a solid basis for most other things you might want to get into. We recommend you develop your own intermediate routine. A short guide can be found [here](http://www.reddit.com/r/bodyweightfitness/wiki/training_guide#wiki_developing_an_intermediate_routine).
 
 
 ### **Can I do this every day?**
 
-No. If it were more effective that way, we wouldn't have made it a 3x a week routine. You get stronger and bigger when you rest. For more elaboration, see the FAQ on [can I train every day?](/recommended-routine/bodyweightfitness/wiki/faq#wiki_can_i_train_everyday.3F)
+No. If it were more effective that way, we wouldn't have made it a 3x a week routine. You get stronger and bigger when you rest. For more elaboration, see the FAQ on [can I train every day?](/r/bodyweightfitness/wiki/faq#wiki_can_i_train_everyday.3F)
 
 ### **How soon will I see results?**
 
@@ -191,14 +191,14 @@ In your ability to do the exercises, expect progress to start about 2-3 workouts
 
 How are you planning on doing push-ups, rows, dips, and pull-ups without arms? Seriously though, all the exercises in the strength section are compound exercises, meaning they use major muscle groups simultaneously. Most bodyweight exercises are like this (as opposed to isolation exercises). Pushups, dips use the chest and triceps. Pullups and rows use the upper back (lats, etc), biceps and forearms (by gripping).  If you want more work for your forearms, check out /r/griptraining. 
 
-If you want to know in detail which exercises work which muscles and why they are included, [read this thread.](https://www.reddit.com/recommended-routine/bodyweightfitness/comments/5ipiyd/trying_to_find_a_detailed_breakdown_of_reasoning/)
+If you want to know in detail which exercises work which muscles and why they are included, [read this thread.](https://www.reddit.com/r/bodyweightfitness/comments/5ipiyd/trying_to_find_a_detailed_breakdown_of_reasoning/)
 
 
 ### **Is it okay if I make XYZ modification to the routine?**
 
-You can make whatever changes you like, but if there was something we could change in the routine to improve results right off the bat for everyone, we would have changed that. The routine is set up in the way it is for various reasons that are too complicated to get into here, and very few of the design decisions were arbitrary. If you don't know what you're doing, stick with the routine as written. If you want to learn more about why the routine is set up the way it is, start reading the Basic Programming Principles in our [Concept Wednesday](https://www.reddit.com/recommended-routine/bodyweightfitness/wiki/weekly/conceptwednesday) series.
+You can make whatever changes you like, but if there was something we could change in the routine to improve results right off the bat for everyone, we would have changed that. The routine is set up in the way it is for various reasons that are too complicated to get into here, and very few of the design decisions were arbitrary. If you don't know what you're doing, stick with the routine as written. If you want to learn more about why the routine is set up the way it is, start reading the Basic Programming Principles in our [Concept Wednesday](https://www.reddit.com/r/bodyweightfitness/wiki/weekly/conceptwednesday) series.
 
-See also: [Why Beginners shouldn't modify the Recommended Routine](https://www.reddit.com/recommended-routine/bodyweightfitness/comments/41wffd/fyi_for_beginners_do_not_attempt_to_modify_the/) and [Why switching up your exercises a lot is a bad idea](https://www.reddit.com/recommended-routine/bodyweightfitness/comments/4oddzi/why_switching_up_your_exercises_a_lot_is_a_bad/)
+See also: [Why Beginners shouldn't modify the Recommended Routine](https://www.reddit.com/r/bodyweightfitness/comments/41wffd/fyi_for_beginners_do_not_attempt_to_modify_the/) and [Why switching up your exercises a lot is a bad idea](https://www.reddit.com/r/bodyweightfitness/comments/4oddzi/why_switching_up_your_exercises_a_lot_is_a_bad/)
 
 
 ### **This felt way too easy! Is something wrong?**
@@ -209,23 +209,23 @@ Give it some time. Make sure you're doing the hardest progressions you can do fo
 
  The general consensus is that the Startbodyweight routine is a solid routine for all of strength, hypertrophy, and fat loss (provided you eat correctly), so it doesn't really matter, so pick one and *get going*. Indecision is no use if you're not working out.
 
- [Thread 1](https://www.reddit.com/recommended-routine/bodyweightfitness/comments/2l1zse/startbodyweight_vs_fitloop/), [thread 2](https://www.reddit.com/recommended-routine/bodyweightfitness/comments/2d2x2o/is_startbodyweightcoms_basic_routine_any_good/).
+ [Thread 1](https://www.reddit.com/r/bodyweightfitness/comments/2l1zse/startbodyweight_vs_fitloop/), [thread 2](https://www.reddit.com/r/bodyweightfitness/comments/2d2x2o/is_startbodyweightcoms_basic_routine_any_good/).
 
 
 ### **Which is better, this routine, or the GymnasticBodies Foundation program?**
 
-**We specifically do NOT recommend any of GB's materials. [Sommer threatened to sue bodyweightfitness members for posting bad reviews of his program and seminars](https://www.reddit.com/recommended-routine/bodyweightfitness/wiki/kb/program_reviews#wiki_christopher_sommer.27s_.2F_gymnasticbodies_foundation)**.
+**We specifically do NOT recommend any of GB's materials. [Sommer threatened to sue bodyweightfitness members for posting bad reviews of his program and seminars](https://www.reddit.com/r/bodyweightfitness/wiki/kb/program_reviews#wiki_christopher_sommer.27s_.2F_gymnasticbodies_foundation)**.
 
-With that said, the GymnasticBodies series have a very different flavour compared to our routines, so this a decision you'll have to make on your own. You can find our review page of the program [here](https://www.reddit.com/recommended-routine/bodyweightfitness/wiki/program_reviews/gb_foundation) (might be a little out of date). Here are some threads about our routine versus Foundation in specific: [thread 1](https://www.reddit.com/recommended-routine/bodyweightfitness/comments/2to9ve/gb_foundation_vs_oglike_routine_like_the_one/), [thread 2](https://www.reddit.com/recommended-routine/bodyweightfitness/comments/1eny1w/starting_out_foundation_vs_reddit_bodyweight/), and also make sure to give /u/FatManDan's [Reasons for Slow Progress on the Foundation Series](http://www.reddit.com/recommended-routine/bodyweightfitness/comments/2o4xcw/reasons_for_slow_progress_on_foundation_series/) ([part 2](https://www.reddit.com/recommended-routine/bodyweightfitness/comments/359pwr/reasons_for_slow_progress_on_foundation_series/)) a read.
+With that said, the GymnasticBodies series have a very different flavour compared to our routines, so this a decision you'll have to make on your own. You can find our review page of the program [here](https://www.reddit.com/r/bodyweightfitness/wiki/program_reviews/gb_foundation) (might be a little out of date). Here are some threads about our routine versus Foundation in specific: [thread 1](https://www.reddit.com/r/bodyweightfitness/comments/2to9ve/gb_foundation_vs_oglike_routine_like_the_one/), [thread 2](https://www.reddit.com/r/bodyweightfitness/comments/1eny1w/starting_out_foundation_vs_reddit_bodyweight/), and also make sure to give /u/FatManDan's [Reasons for Slow Progress on the Foundation Series](http://www.reddit.com/r/bodyweightfitness/comments/2o4xcw/reasons_for_slow_progress_on_foundation_series/) ([part 2](https://www.reddit.com/r/bodyweightfitness/comments/359pwr/reasons_for_slow_progress_on_foundation_series/)) a read.
 
 ### **What about Bar Brothers / BarStarzz / Convict Conditioning / Freeletics / Insanity / P90X / THENX / etcetera?**
 
-* A directory of reviews for similar and not-so-similar fitness programs may be found in our knowledge base located [here](https://www.reddit.com/recommended-routine/bodyweightfitness/wiki/kb/program_reviews).
+* A directory of reviews for similar and not-so-similar fitness programs may be found in our knowledge base located [here](https://www.reddit.com/r/bodyweightfitness/wiki/kb/program_reviews).
 
 
 ### **This is great, but I'd like something more skill-oriented. Do you have anything that can fit the bill?**
 
- * Give our [Move](https://www.reddit.com/recommended-routine/bodyweightfitness/wiki/move) programming a look. It'll help increase your motor skills and balance while strengthening your body. If you don't care about any strength work, give our [Skill Day Routine](https://www.reddit.com/recommended-routine/bodyweightfitness/wiki/kb/skillday) a look!
+ * Give our [Move](https://www.reddit.com/r/bodyweightfitness/wiki/move) programming a look. It'll help increase your motor skills and balance while strengthening your body. If you don't care about any strength work, give our [Skill Day Routine](https://www.reddit.com/r/bodyweightfitness/wiki/kb/skillday) a look!
 
 ### **Do I rest 90sec between EVERY exercise? What are Pairs? I'm confused how it works.**
 
@@ -259,101 +259,101 @@ Core Triplet
 
 ### **The Recommended Routine looks different from how I remember, but I can't quite place my finger on it...🤔** 
 
-* We released a big update in the Summer of 2018! The changes are detailed [in this post](https://www.reddit.com/recommended-routine/bodyweightfitness/comments/8ywetr/recommended_routine_update_again). 
+* We released a big update in the Summer of 2018! The changes are detailed [in this post](https://www.reddit.com/r/bodyweightfitness/comments/8ywetr/recommended_routine_update_again). 
 
-* You may find the classic Recommended Routine from 2017 in the wiki [here](https://www.reddit.com/recommended-routine/bodyweightfitness/wiki/kb/recommended_routine_2017). 
+* You may find the classic Recommended Routine from 2017 in the wiki [here](https://www.reddit.com/r/bodyweightfitness/wiki/kb/recommended_routine_2017). 
 
-* As always, the full RR commit history may be viewed with [this link](https://www.reddit.com/recommended-routine/bodyweightfitness/wiki/kb/recommended_routine_2017).
+* As always, the full RR commit history may be viewed with [this link](https://www.reddit.com/r/bodyweightfitness/wiki/kb/recommended_routine_2017).
 
 # Translations
-If you'd like to submit a translation of this page, use the view-source option below as a base and please [message the moderators](https://www.reddit.com/message/compose?to=/recommended-routine/bodyweightfitness) to let us know and get help with the process.
+If you'd like to submit a translation of this page, use the view-source option below as a base and please [message the moderators](https://www.reddit.com/message/compose?to=/r/bodyweightfitness) to let us know and get help with the process.
 
-* [Arabic](https://www.reddit.com/recommended-routine/bodyweightfitness/wiki/kb/recommended_routine_arabic)
+* [Arabic](https://www.reddit.com/r/bodyweightfitness/wiki/kb/recommended_routine_arabic)
 Thanks to /u/MalikX2000
 
-* [Deutsch](https://www.reddit.com/recommended-routine/bodyweightfitness/wiki/kb/recommended_routine_german)
+* [Deutsch](https://www.reddit.com/r/bodyweightfitness/wiki/kb/recommended_routine_german)
 Thanks to /u/natriusaut
 
-* [Dutch](https://www.reddit.com/recommended-routine/bodyweightfitness/wiki/kb/recommended_routine_dutch2)
+* [Dutch](https://www.reddit.com/r/bodyweightfitness/wiki/kb/recommended_routine_dutch2)
 Thanks to /u/Jimenie
 
-* [Español](https://www.reddit.com/recommended-routine/bodyweightfitness/wiki/kb/recommended_routine_spanish2)
+* [Español](https://www.reddit.com/r/bodyweightfitness/wiki/kb/recommended_routine_spanish2)
 Thanks to /u/VencesMA and /u/SantiMC
 
-* [Français](https://www.reddit.com/recommended-routine/bodyweightfitness/wiki/kb/recommended_routine_french_2018)
+* [Français](https://www.reddit.com/r/bodyweightfitness/wiki/kb/recommended_routine_french_2018)
 Thanks to /u/SG_StAR
 
-* [Hrvatski](https://www.reddit.com/recommended-routine/bodyweightfitness/wiki/kb/recommended_routine_croatian2) Thanks to /u/StilskaFigura
+* [Hrvatski](https://www.reddit.com/r/bodyweightfitness/wiki/kb/recommended_routine_croatian2) Thanks to /u/StilskaFigura
 
-* [Italiano](https://www.reddit.com/recommended-routine/bodyweightfitness/wiki/kb/recommended_routine_italian2)
+* [Italiano](https://www.reddit.com/r/bodyweightfitness/wiki/kb/recommended_routine_italian2)
 Thanks to /u/InBoxDaAcc
 
-* [Tiếng Việt](https://www.reddit.com/recommended-routine/bodyweightfitness/wiki/kb/recommended_routine_vn). Thanks to Big Hat Logan
+* [Tiếng Việt](https://www.reddit.com/r/bodyweightfitness/wiki/kb/recommended_routine_vn). Thanks to Big Hat Logan
 
-* [Português Brasileiro](https://www.reddit.com/recommended-routine/bodyweightfitness/wiki/kb/recommended_routine_portuguese_br) (Tradução em Progresso! / Translation in Progress!)
+* [Português Brasileiro](https://www.reddit.com/r/bodyweightfitness/wiki/kb/recommended_routine_portuguese_br) (Tradução em Progresso! / Translation in Progress!)
 
-* [Pусский](https://old.reddit.com/recommended-routine/bodyweightfitness/wiki/kb/recommended_routine_russian_2018) Thanks to u/subuserfromsubreddit
+* [Pусский](https://old.reddit.com/r/bodyweightfitness/wiki/kb/recommended_routine_russian_2018) Thanks to u/subuserfromsubreddit
 
-* [Romanian](https://www.reddit.com/recommended-routine/bodyweightfitness/wiki/kb/recommended_routine_romanian)
+* [Romanian](https://www.reddit.com/r/bodyweightfitness/wiki/kb/recommended_routine_romanian)
 Thanks to /u/stefanless
 
-* [Türkçe](https://www.reddit.com/recommended-routine/bodyweightfitness/wiki/kb/recommended_routine_turkish_2018) Thanks to u/thynic
+* [Türkçe](https://www.reddit.com/r/bodyweightfitness/wiki/kb/recommended_routine_turkish_2018) Thanks to u/thynic
 
-* [中文](https://www.reddit.com/recommended-routine/bodyweightfitness/wiki/kb/recommended_routine_simplifiedchinese) Thanks to u/berrakun
+* [中文](https://www.reddit.com/r/bodyweightfitness/wiki/kb/recommended_routine_simplifiedchinese) Thanks to u/berrakun
 
-* [日本語](https://www.reddit.com/recommended-routine/bodyweightfitness/wiki/kb/recommended_routine_jp) Thanks to u/mthinderaker and Ishida Koa
+* [日本語](https://www.reddit.com/r/bodyweightfitness/wiki/kb/recommended_routine_jp) Thanks to u/mthinderaker and Ishida Koa
 
 # Old Translations
-Previous translations of the [Recommended Routine (before 2018)] (https://www.reddit.com/recommended-routine/bodyweightfitness/wiki/kb/recommended_routine_2017) are available below:
+Previous translations of the [Recommended Routine (before 2018)] (https://www.reddit.com/r/bodyweightfitness/wiki/kb/recommended_routine_2017) are available below:
 
-* [日本語](https://www.reddit.com/recommended-routine/bodyweightfitness/wiki/kb/recommended_routine_japanese)
+* [日本語](https://www.reddit.com/r/bodyweightfitness/wiki/kb/recommended_routine_japanese)
 Thanks to "mth" (wanted to remain anon)
 
-* [中文](https://www.reddit.com/recommended-routine/bodyweightfitness/wiki/kb/recommended_routine_chinese)
+* [中文](https://www.reddit.com/r/bodyweightfitness/wiki/kb/recommended_routine_chinese)
 Thanks to /u/Squid4Hire
 
-* [עִברִית](https://www.reddit.com/recommended-routine/bodyweightfitness/wiki/kb/recommended_routine_hebrew)
+* [עִברִית](https://www.reddit.com/r/bodyweightfitness/wiki/kb/recommended_routine_hebrew)
 Thanks to /u/bullhorn7 (BullHorn on IRC)
 
-* [Česky](https://www.reddit.com/recommended-routine/bodyweightfitness/wiki/kb/recommended_routine_czech)
+* [Česky](https://www.reddit.com/r/bodyweightfitness/wiki/kb/recommended_routine_czech)
 Thanks to /u/Hrnek
 
-* [Dansk](https://www.reddit.com/recommended-routine/bodyweightfitness/wiki/kb/recommended_routine_danish)
+* [Dansk](https://www.reddit.com/r/bodyweightfitness/wiki/kb/recommended_routine_danish)
 Thanks to /u/Mariehane
 
-* [Español](https://www.reddit.com/recommended-routine/bodyweightfitness/wiki/kb/recommended_routine_spanish)
+* [Español](https://www.reddit.com/r/bodyweightfitness/wiki/kb/recommended_routine_spanish)
 Thanks to /u/GrooveCo, /u/ingochris, and /u/tirititrantran
 
-* [Francais](https://www.reddit.com/recommended-routine/bodyweightfitness/wiki/kb/recommended_routine_french)
+* [Francais](https://www.reddit.com/r/bodyweightfitness/wiki/kb/recommended_routine_french)
 
-* [Hrvatski](https://www.reddit.com/recommended-routine/bodyweightfitness/wiki/kb/recommended_routine_croatian)
+* [Hrvatski](https://www.reddit.com/r/bodyweightfitness/wiki/kb/recommended_routine_croatian)
 Thanks to /u/Frustrac
 
-* [Igpay Atinlay](https://www.reddit.com/recommended-routine/bodyweightfitness/wiki/kb/recommended_routine_piglatin)
+* [Igpay Atinlay](https://www.reddit.com/r/bodyweightfitness/wiki/kb/recommended_routine_piglatin)
 Thanks to /u/Potentia
 
-* [Italiano](https://www.reddit.com/recommended-routine/bodyweightfitness/wiki/kb/recommended_routine_italian)
+* [Italiano](https://www.reddit.com/r/bodyweightfitness/wiki/kb/recommended_routine_italian)
 Thanks to /u/ChuckL3M0str3 and /u/urbeurbis
 
-* [Magyar](https://www.reddit.com/recommended-routine/bodyweightfitness/wiki/kb/recommended_routine_hungarian)
+* [Magyar](https://www.reddit.com/r/bodyweightfitness/wiki/kb/recommended_routine_hungarian)
 Thanks to /u/sirkarrde
 
-* [Nederlands](https://www.reddit.com/recommended-routine/bodyweightfitness/wiki/kb/recommended_routine_dutch)
+* [Nederlands](https://www.reddit.com/r/bodyweightfitness/wiki/kb/recommended_routine_dutch)
 Thanks to /u/161803398874989
 
-* [Polski](https://www.reddit.com/recommended-routine/bodyweightfitness/wiki/kb/recommended_routine_polish)
+* [Polski](https://www.reddit.com/r/bodyweightfitness/wiki/kb/recommended_routine_polish)
 Thanks to /u/bardakon and /u/Kammaol
 
-* [Português Brasileiro](https://www.reddit.com/recommended-routine/bodyweightfitness/wiki/kb/recommended_routine_portuguese_br?v=dcf72d52-2457-11e8-b4cc-0e0a41cf739a)
+* [Português Brasileiro](https://www.reddit.com/r/bodyweightfitness/wiki/kb/recommended_routine_portuguese_br?v=dcf72d52-2457-11e8-b4cc-0e0a41cf739a)
 Thanks to /u/Brondog and /u/nomequeeulembro
 
-* [Português](https://www.reddit.com/recommended-routine/bodyweightfitness/wiki/kb/recommended_routine_portuguese)
+* [Português](https://www.reddit.com/r/bodyweightfitness/wiki/kb/recommended_routine_portuguese)
 Thanks to /u/RobbingWilliams
 
-* [Suomi](https://www.reddit.com/recommended-routine/bodyweightfitness/wiki/kb/recommended_routine_finnish)
+* [Suomi](https://www.reddit.com/r/bodyweightfitness/wiki/kb/recommended_routine_finnish)
 Thanks to /u/legatostaccato
 
-* [Tiếng Việt](https://www.reddit.com/recommended-routine/bodyweightfitness/wiki/kb/recommended_routine_vietnamese)
+* [Tiếng Việt](https://www.reddit.com/r/bodyweightfitness/wiki/kb/recommended_routine_vietnamese)
 Thanks to /u/ingochris
 
 ----

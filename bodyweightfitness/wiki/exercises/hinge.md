@@ -62,7 +62,7 @@ After Single Legged Deadlifts, you can choose one of these instead of Banded Nor
 
  * Similar to previous, but with 1 leg. Keep other leg raised, or rested on working leg.
 
-**Credits: [1](https://www.reddit.com/recommended-routine/bodyweightfitness/comments/gx103n/suggestion_for_rr_hinge_progression_floor_slide/),[2](https://www.reddit.com/recommended-routine/bodyweightfitness/comments/gkzyrj/need_more_hamstring_work_try_singleleg_floor/)**
+**Credits: [1](https://www.reddit.com/r/bodyweightfitness/comments/gx103n/suggestion_for_rr_hinge_progression_floor_slide/),[2](https://www.reddit.com/r/bodyweightfitness/comments/gkzyrj/need_more_hamstring_work_try_singleleg_floor/)**
 
 ###Alternate Path 2:
 
@@ -89,7 +89,7 @@ Stick: Broom stick or PVC pipe or random stick doesn't matter. You can place thi
 
 Barbell + Weights: If you want to progress with weighted Romanian or Single Legged Deadlifts
 
-u/RockRaiders made a post with different setups for nordic curls [located here](https://www.reddit.com/recommended-routine/bodyweightfitness/comments/88cvqe/the_nordic_curl_the_ultimate_hamstring_bodyweight/). If you need more you can search the sub for setup threads [like this](https://www.reddit.com/recommended-routine/bodyweightfitness/comments/910u5g/so_people_that_are_doing_new_rr_at_their_homes/).
+u/RockRaiders made a post with different setups for nordic curls [located here](https://www.reddit.com/r/bodyweightfitness/comments/88cvqe/the_nordic_curl_the_ultimate_hamstring_bodyweight/). If you need more you can search the sub for setup threads [like this](https://www.reddit.com/r/bodyweightfitness/comments/910u5g/so_people_that_are_doing_new_rr_at_their_homes/).
 
 # Frequently Asked Questions
 

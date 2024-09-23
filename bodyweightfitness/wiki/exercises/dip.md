@@ -4,7 +4,7 @@
 ## General Form Cues
 
 * Straight or slightly hollow body. No bending at the hips!
-* Lock out the arms and depress the shoulderblades ([what does that even mean?](/recommended-routine/bodyweightfitness/wiki/kb/positioning)) at the top
+* Lock out the arms and depress the shoulderblades ([what does that even mean?](/r/bodyweightfitness/wiki/kb/positioning)) at the top
 * Go as far down as you can
 * Elbows in
 
@@ -12,7 +12,7 @@
 
 ### [**Parallel Bar Support Hold**](http://antranik.org/wp-content/uploads/2014/01/antranik-holding-support-hold-on-parallel-bars.jpg)
  * Work up to 3 sets of 1 minute holds for this progression
- * [*What if I don't have parallel bars?*](http://www.reddit.com/recommended-routine/bodyweightfitness/wiki/exercises/dip#wiki_what_if_i_don.27t_have_parallel_bars.3F)  
+ * [*What if I don't have parallel bars?*](http://www.reddit.com/r/bodyweightfitness/wiki/exercises/dip#wiki_what_if_i_don.27t_have_parallel_bars.3F)  
  * If you can't hold yourself up at all, consider using bands or your feet to assist you until you gain the necessary strength.
 
 ### [**Negative Dips**](https://www.youtube.com/watch?v=T3Scqw1BbCc)
@@ -35,16 +35,16 @@ After you reach 3x8 Parallel Bar dips, you can choose one of these paths if you 
 ###Alternate Path 1:
 #### [**Ring Dips**](http://www.youtube.com/watch?v=2Vymm8nH4wM)  
 
- * ***Prerequisite:*** 3x8 PB Dips + 60sec RTO Support Hold (from [Warmup](https://www.reddit.com/recommended-routine/bodyweightfitness/wiki/exercises/support))
+ * ***Prerequisite:*** 3x8 PB Dips + 60sec RTO Support Hold (from [Warmup](https://www.reddit.com/r/bodyweightfitness/wiki/exercises/support))
  * Starting from a support position with the rings turned out, perform a dip. It's okay if the rings turn in, just make sure you turn them out at the top.
- * [*What if I don't have rings?*](http://www.reddit.com/recommended-routine/bodyweightfitness/wiki/exercises/dip#wiki_what_if_i_don.27t_have_rings.3F)  
- * [*What does rings turned out/RTO mean?*](/recommended-routine/bodyweightfitness/wiki/exercises/support)  
+ * [*What if I don't have rings?*](http://www.reddit.com/r/bodyweightfitness/wiki/exercises/dip#wiki_what_if_i_don.27t_have_rings.3F)  
+ * [*What does rings turned out/RTO mean?*](/r/bodyweightfitness/wiki/exercises/support)  
 
 #### [**Rings RTO Dips**](https://www.youtube.com/watch?v=WGbtrkzIiOA&t=60s)  
  * Keep the rings turned out during the *entire* dip. You will need to lean your body or pike your hips to compensate for the ring turn
 
 ###Alternate Path 2:
-####[**HeSPU**](https://www.reddit.com/recommended-routine/bodyweightfitness/wiki/exercises/hspu)
+####[**HeSPU**](https://www.reddit.com/r/bodyweightfitness/wiki/exercises/hspu)
 
 ---
 # Equipment
@@ -56,10 +56,10 @@ After you reach 3x8 Parallel Bar dips, you can choose one of these paths if you 
  * ## What if I don't have rings?
 
 * Beyond parallel bar dips, there's not a whole lot of dipping you can do, except for weighted dips (which are a great exercise).
-* If you don't have rings or weights, we recommend you utilize the **[handstand pushup progression](/recommended-routine/bodyweightfitness/wiki/exercises/HSPU) after mastering parallel bar dips.**
+* If you don't have rings or weights, we recommend you utilize the **[handstand pushup progression](/r/bodyweightfitness/wiki/exercises/HSPU) after mastering parallel bar dips.**
 
 # Frequently Asked Questions
 ## Why no [bench dips?](http://i.imgur.com/PeZdiQ8.jpg)
-The movement pattern for bench dips is quite different due to different joint angles, which results in a very low carry over to real dips. Working on pushing strength in general with [the pushup progression](/recommended-routine/bodyweightfitness/wiki/exercises/pushup) to meet the prerequisites will accomplish the same.
+The movement pattern for bench dips is quite different due to different joint angles, which results in a very low carry over to real dips. Working on pushing strength in general with [the pushup progression](/r/bodyweightfitness/wiki/exercises/pushup) to meet the prerequisites will accomplish the same.
 
 ---
