@@ -1,6 +1,6 @@
 # Core Progression
 
-Note: As far as "core" exercises go, this page will forever be "incomplete". Since there are so many different things you can do for your core, we've decided to keep this page centered around the core exercises used in the [Recommended Routine](https://www.reddit.com/r/bodyweightfitness/wiki/kb/recommended_routine). For a more complete list of core exercises, please check our [exercise wiki](https://www.reddit.com/r/bodyweightfitness/wiki/playground).
+Note: As far as "core" exercises go, this page will forever be "incomplete". Since there are so many different things you can do for your core, we've decided to keep this page centered around the core exercises used in the [Recommended Routine](https://www.reddit.com/recommended-routine/bodyweightfitness/wiki/kb/recommended_routine). For a more complete list of core exercises, please check our [exercise wiki](https://www.reddit.com/recommended-routine/bodyweightfitness/wiki/playground).
 
 ## Anti-Extension
 ###Main Progression:
@@ -124,7 +124,7 @@ Bench, counter, ledge, or boxes for Reverse Hyperextensions and Copenhagen Plank
 If you want to keep it simple, rest 90s between each set just like the previous pairs. If you want to save time, you can rest 30s-45s between each set. 
 
 ##**How do each of the alternate compare to the suggested movement?**
-You can look through /u/DoomGoober's [write-up](https://www.reddit.com/r/bodyweightfitness/comments/95ribm/i_tried_every_core_triplet_alternative_my_thoughts/) comparing each path
+You can look through /u/DoomGoober's [write-up](https://www.reddit.com/recommended-routine/bodyweightfitness/comments/95ribm/i_tried_every_core_triplet_alternative_my_thoughts/) comparing each path
 
 
 ----

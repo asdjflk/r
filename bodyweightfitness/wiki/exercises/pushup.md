@@ -3,10 +3,10 @@
 ## General Form Cues
 
 * Body in a straight line from head to toe: don't let the hips sag!
-* Lock out arms and protract the shoulderblades ([what does that even mean?](/r/bodyweightfitness/wiki/kb/positioning)) at the top
+* Lock out arms and protract the shoulderblades ([what does that even mean?](/recommended-routine/bodyweightfitness/wiki/kb/positioning)) at the top
 * Go down until chest nearly touches the ground
 * Keep the elbows in, don't let them flare out
-* Don't shrug up your shoulders to your ears, focus on depressing the shoulderblades ([what does that even mean?](/r/bodyweightfitness/wiki/kb/positioning)).
+* Don't shrug up your shoulders to your ears, focus on depressing the shoulderblades ([what does that even mean?](/recommended-routine/bodyweightfitness/wiki/kb/positioning)).
 
 ## Recommended Progression
 
@@ -44,7 +44,7 @@ After your each 3x8 Diamond Pushups, you can choose one of these progressions if
 ####[**Rings Pushup**](https://www.youtube.com/watch?v=vBviFvN3rHw)  
 
  * Perform a pushup on the rings. Turn out the rings at the top.
- * [*What does "turning out the rings" mean?*](/r/bodyweightfitness/wiki/kb/positioning)  
+ * [*What does "turning out the rings" mean?*](/recommended-routine/bodyweightfitness/wiki/kb/positioning)  
 
 ####[**RTO Pushup**](https://www.youtube.com/watch?v=MrlyEIpe0LI&t=2m55s)  
 
@@ -56,10 +56,10 @@ After your each 3x8 Diamond Pushups, you can choose one of these progressions if
  * Starting from an RTO plank position, lean forward until your shoulders are in front of your hand. Perform a pushup while maintaining forward lean. Really protract and depress the shoulderblades at the top.
  * Increase forward lean to make it more difficult. Decrease forward lean to make it easier. You won't run out of resistance anytime soon if you keep increasing your forward lean.
 
- * [*What does "protracting the shoulderblades mean?*](/r/bodyweightfitness/wiki/kb/positioning)  
+ * [*What does "protracting the shoulderblades mean?*](/recommended-routine/bodyweightfitness/wiki/kb/positioning)  
 
 ###Alternate Path 2:
-####[**HeSPU**](https://www.reddit.com/r/bodyweightfitness/wiki/exercises/hspu)
+####[**HeSPU**](https://www.reddit.com/recommended-routine/bodyweightfitness/wiki/exercises/hspu)
 
 
 ---
@@ -68,6 +68,6 @@ After your each 3x8 Diamond Pushups, you can choose one of these progressions if
 Nothing! Or rings...
 
 # Frequently Asked Questions
-There's nothing here! Except for the full FAQ here: https://www.reddit.com/r/bodyweightfitness/wiki/faq
+There's nothing here! Except for the full FAQ here: https://www.reddit.com/recommended-routine/bodyweightfitness/wiki/faq
 
 ---

@@ -24,7 +24,7 @@
 
  * See general form cues.
 
- * [*I've got nowhere to do these!*](http://www.reddit.com/r/bodyweightfitness/wiki/exercises/row#wiki_places_to_do_rows)  
+ * [*I've got nowhere to do these!*](http://www.reddit.com/recommended-routine/bodyweightfitness/wiki/exercises/row#wiki_places_to_do_rows)  
 
 ###[**Wide Rows**](https://www.youtube.com/watch?v=f3yfJ0RStQw)  
 
@@ -44,21 +44,21 @@ After you reach 3x8 Wide rows you can choose one of these progressions if you do
 
 ####[**Tuck Front Lever**](https://youtu.be/tStwC06qdwM?t=2m50s)  (3x10-30secs)
 
-   * **PRE-REQUISITE**: *Must be able to perform [skin the cat](https://www.reddit.com/r/bodyweightfitness/comments/315n76/technique_thursday_skin_the_cat_tutorial/) for 5x2, and [arching active hang](https://www.youtube.com/watch?v=C995b3KLXS4) for 3x8*. Practice Skin the Cats **after** your warmup and **before** your strength work.
+   * **PRE-REQUISITE**: *Must be able to perform [skin the cat](https://www.reddit.com/recommended-routine/bodyweightfitness/comments/315n76/technique_thursday_skin_the_cat_tutorial/) for 5x2, and [arching active hang](https://www.youtube.com/watch?v=C995b3KLXS4) for 3x8*. Practice Skin the Cats **after** your warmup and **before** your strength work.
 
-   * The main points here are to actively [depress and retract](/r/bodyweightfitness/wiki/kb/positioning) the scapulae, as well as keeping the elbows completely straight. There should be a strong activation of the lats (the big muscles on the outsides of your back) coupled with the depression.
+   * The main points here are to actively [depress and retract](/recommended-routine/bodyweightfitness/wiki/kb/positioning) the scapulae, as well as keeping the elbows completely straight. There should be a strong activation of the lats (the big muscles on the outsides of your back) coupled with the depression.
 
 
 #### [**Tuck Front Lever Pulls**](https://youtu.be/ZWxrvwRKR-s?t=4m19s)  (3x5-8)
 
    * We advise having a solid Tuck Front Lever hold (20-30s) before moving on to the Pulls. if you can complete 3x5 rows with *good, clean form* before you reach a 20-30s hold, feel free to do these instead. 
 
-   * The main points here are to actively [depress and retract](/r/bodyweightfitness/wiki/kb/positioning) the scapulae, as well as keeping the elbows completely straight. There should be a strong activation of the lats (the big muscles on the outsides of your back) coupled with the depression.
+   * The main points here are to actively [depress and retract](/recommended-routine/bodyweightfitness/wiki/kb/positioning) the scapulae, as well as keeping the elbows completely straight. There should be a strong activation of the lats (the big muscles on the outsides of your back) coupled with the depression.
    * Don't spend too much time in the inverted hang or the dead hang position, no more than a second.
 
      * After you've ready to move on from Tuck Front Lever Pulls, repeat the last two progressions with the next progression. Advanced Tuck > Half Straddle > Straddle > Half Lay (sometimes) > Full Lay. [This](https://youtu.be/ZWxrvwRKR-s?t=3m56s) video goes over the progressions briefly. Depending on your level of flexibility you may forego the half Straddle and Half Lay progressions as they aren't that big of a difficulty jump. If you can do a narrow straddle you can probably skip half lay.
 
-     * **Note:** *The Recommended Routine programming is not designed to get you to a full [front lever](https://www.reddit.com/r/bodyweightfitness/wiki/playground/front-lever). The progression above is very simple and made to introduce you to the element. If you like it and want to achieve a full front lever we encourage you to look into more [advanced programming](https://www.reddit.com/r/bodyweightfitness/wiki/).*
+     * **Note:** *The Recommended Routine programming is not designed to get you to a full [front lever](https://www.reddit.com/recommended-routine/bodyweightfitness/wiki/playground/front-lever). The progression above is very simple and made to introduce you to the element. If you like it and want to achieve a full front lever we encourage you to look into more [advanced programming](https://www.reddit.com/recommended-routine/bodyweightfitness/wiki/).*
 
 
 ###Alternate Path 2:
@@ -76,7 +76,7 @@ After you reach 3x8 Wide rows you can choose one of these progressions if you do
 
 # Equipment
 ## Places to do rows
-If you have a pullup bar, pull up a chair and put your feet on that to get you some extra height. Alternatively, hang rings from your pullup bar. Another option is to [use a table to do rows](http://www.youtube.com/watch?v=OYUxXMGVuuU). u/RockRaiders made a [post here](https://www.reddit.com/r/bodyweightfitness/comments/857cqj/no_idea_where_to_do_pullups_and_rows_here_are/) with many options. 
+If you have a pullup bar, pull up a chair and put your feet on that to get you some extra height. Alternatively, hang rings from your pullup bar. Another option is to [use a table to do rows](http://www.youtube.com/watch?v=OYUxXMGVuuU). u/RockRaiders made a [post here](https://www.reddit.com/recommended-routine/bodyweightfitness/comments/857cqj/no_idea_where_to_do_pullups_and_rows_here_are/) with many options. 
 
 ## Rings
 It's better to have rings for tuck front lever rows as they allow you to get more range of motion. However, they are not necessary and you can do them on a bar instead.

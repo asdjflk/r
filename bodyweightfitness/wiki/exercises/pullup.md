@@ -3,7 +3,7 @@
 
 ## General Form Cues
 
-* Body slightly [hollow](/r/bodyweightfitness/wiki/kb/positioning) with straight legs throughout the whole exercise. Don't cross your legs.
+* Body slightly [hollow](/recommended-routine/bodyweightfitness/wiki/kb/positioning) with straight legs throughout the whole exercise. Don't cross your legs.
 * If you cannot get straight legs, it's preferable to keep the feet in front of the body rather than behind.
 * Arms straight at the bottom. Don't think about anything else, just straight arms. The rest will happen automatically.
 * Strive for chest to bar at the top. For this the forearms have to deviate from vertical, which may be a bit hard on the elbows, so build up to it slowly.
@@ -46,7 +46,7 @@ After you reach 3x8 Pull-Ups, you can choose one of these progressions if you do
 ### Alternate Path 1:
 #### [**L-sit Pull-ups**](https://www.youtube.com/watch?v=qeGS55RHBUU)  
 
- * Hold your legs in an [L-sit](/r/bodyweightfitness/wiki/exercises/l-sit) position, perform a pull-up.
+ * Hold your legs in an [L-sit](/recommended-routine/bodyweightfitness/wiki/exercises/l-sit) position, perform a pull-up.
 
 ###Alternate Path 2:
 ####[**Arch Body Pull-ups**](https://i.imgur.com/y0k59F8.jpg)
@@ -63,7 +63,7 @@ After you reach 3x8 Pull-Ups, you can choose one of these progressions if you do
 
 ---
 # Equipment
-Okay, seriously, no excuses on this one. Tree branch, back of a staircase, bus stop... the opportunities for places to do pull-ups are endless. Besides, doorway pull-up bars are $20-40 a piece and will be a fantastic investment. If you still have no idea what to do, u/RockRaiders made a [post here](https://www.reddit.com/r/bodyweightfitness/comments/857cqj/no_idea_where_to_do_pullups_and_rows_here_are/) with many options. 
+Okay, seriously, no excuses on this one. Tree branch, back of a staircase, bus stop... the opportunities for places to do pull-ups are endless. Besides, doorway pull-up bars are $20-40 a piece and will be a fantastic investment. If you still have no idea what to do, u/RockRaiders made a [post here](https://www.reddit.com/recommended-routine/bodyweightfitness/comments/857cqj/no_idea_where_to_do_pullups_and_rows_here_are/) with many options. 
 
 # Frequently Asked Questions
 ## **Should I do pull-ups or chinups?**
