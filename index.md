@@ -27,7 +27,7 @@
 
 ## Weekly Schedule
 
-* 3x a week, with at least one rest day (or [skill day](https://www.reddit.com/r/bodyweightfitness/wiki/kb/skillday)) in between workout days.
+* 3x a week, with at least one rest day (or [skill day](/r/bodyweightfitness/wiki/kb/skillday)) in between workout days.
 
 * Examples: Monday, Wednesday, Friday (MWF) or Tuesday, Thursday, Saturday (TuThSat) or Wednesday, Friday, Sunday (WFSun). Whatever fits your schedule.
 
